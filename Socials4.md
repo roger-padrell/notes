@@ -13,8 +13,9 @@ _Pàg 72_
 - Victòries angloespanyoles: els britanics i els espanyols vencen als francesos a Arapiles
 Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 
-
+### Etapes de Ferran VII (el desitjat)
+|Etapa|Cronologia|Característiques|P
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzc4NDEzMiwxMTA2ODc2NDUwLDk0OT
-M5MzY3OF19
+eyJoaXN0b3J5IjpbNzM4NjMyODg4LDExMDY4NzY0NTAsOTQ5Mz
+kzNjc4XX0=
 -->

@@ -16,10 +16,15 @@ Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 ### Etapes de Ferran VII (el desitjat)
 |Etapa|Cronologia|Característiques|Problemes|
 |--|--|--|--|
-|Sexenni Absolutista|1814-1820|anula el reformisme|pronunciaments militars|
+|Sexenni Absolutista|1814-1820|anul·la el reformisme|pronunciaments militars|
 |Trienni Liberal|1820-1823|el rei accepta la constitució|Santa Aliança ajuda a Ferran VII|
-|Dècada Omniosa|1823-1833| Anull
+|Dècada Omniosa|1823-1833| Anul·la la constitució, pragmàtica sanció|econòmics, fiscals, revolta Americana|
+
+## Isabel II
+|Etapa|Cronologia|Característiques|Problemes|
+|--|--|--|--|
+|Regèn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDU5MzIyMiwxMTA2ODc2NDUwLDk0OT
-M5MzY3OF19
+eyJoaXN0b3J5IjpbMzY3NjQzNjE0LDExMDY4NzY0NTAsOTQ5Mz
+kzNjc4XX0=
 -->

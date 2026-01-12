@@ -23,8 +23,10 @@ Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 ## Isabel II
 |Etapa|Cronologia|Característiques|Problemes|
 |--|--|--|--|
-|Regèn
+|Regència Maria Cristina|1833-1840|nova Constitució (1837)|aixecaments militars|
+|Regència Espartero|1840-1843|desprotegeix l'industria catalana|mesures autoritaries|
+|Dècada Moderada|1843-1854|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NjQzNjE0LDExMDY4NzY0NTAsOTQ5Mz
-kzNjc4XX0=
+eyJoaXN0b3J5IjpbMTk0OTc5MjQ2MSwxMTA2ODc2NDUwLDk0OT
+M5MzY3OF19
 -->

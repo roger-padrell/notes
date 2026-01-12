@@ -25,8 +25,12 @@ Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 |--|--|--|--|
 |Regència Maria Cristina|1833-1840|nova Constitució (1837)|aixecaments militars|
 |Regència Espartero|1840-1843|desprotegeix l'industria catalana|mesures autoritaries|
-|Dècada Moderada|1843-1854|
+|Dècada Moderada|1843-1854|Constitució moderada, centralització|Falsejament electoral, deriva autoritària|
+|Bienni progressista|1854-1856|poder als progressistes|--|
+|Decomposició del sistema|1856-1868|política exterior colonialista, poder als uniformistes i moderats|crisi econòmica|
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTc5MjQ2MSwxMTA2ODc2NDUwLDk0OT
+eyJoaXN0b3J5IjpbLTY2MDM5MjAzNiwxMTA2ODc2NDUwLDk0OT
 M5MzY3OF19
 -->

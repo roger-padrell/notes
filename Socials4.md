@@ -30,10 +30,11 @@ Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 |Decomposició del sistema|1856-1868|política exterior colonialista, poder als uniformistes i moderats|crisi econòmica|
 
 ## Restauració borbònica
+- Sistema canovista (
 
 ## Vocabulari
-
+- Desamortització
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjQ3NjAyNCwxMTA2ODc2NDUwLDk0OT
-M5MzY3OF19
+eyJoaXN0b3J5IjpbMTA1MjQyNTkxMiwxNTI2NDc2MDI0LDExMD
+Y4NzY0NTAsOTQ5MzkzNjc4XX0=
 -->

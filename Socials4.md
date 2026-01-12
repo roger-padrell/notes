@@ -40,7 +40,32 @@ Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 
 ## Vocabulari
 - Desamortització
+- Liberalisme: ideologia política que defensa la sobirania nacional, la igualtat davant la llei i les llibertats individuals.
+- Sobirania nacional: principi segons el qual el poder polític resideix en la nació i no en el rei.
+- Constitucionalisme: sistema polític basat en una constitució que limita el poder del govern.
+- Divisió de poders: separació del poder legislatiu, executiu i judicial per evitar l’abús de poder.
+- Sufragi censatari: sistema de vot restringit a les persones amb un cert nivell de riquesa.
+- Antic Règim: sistema polític, social i econòmic basat en l’absolutisme i la societat estamental.
+- Desamortització: procés de confiscació i venda de terres de l’Església i municipis per obtenir diners i crear propietaris liberals.
+- Guerra del Francès: conflicte entre Espanya i França (1808–1814) que va provocar una revolució liberal.
+- Guerrilla: forma de lluita armada irregular contra l’exèrcit francès.
+- Corts de Cadis: assemblea que va elaborar la Constitució de 1812.
+- Constitució de 1812: primera constitució espanyola, de caràcter liberal.
+- Absolutisme: sistema polític en què el rei concentra tots els poders.
+- Repressió política: persecució de persones per les seves idees polítiques.
+- Carlisme: moviment polític tradicionalista i absolutista oposat al liberalisme.
+- Guerres carlines: conflictes civils entre carlins i liberals al segle XIX.
+- Furs: lleis i privilegis propis d’alguns territoris, defensats pels carlins.
+- Pronunciament militar: aixecament de l’exèrcit per canviar el govern.
+- Centralització administrativa: concentració del poder polític i administratiu en l’Estat.
+- Sufragi universal masculí: dret de vot de tots els homes adults.
+- Revolució Gloriosa: revolució de 1868 que va acabar amb el regnat d’Isabel II.
+- Inestabilitat política: successió constant de governs i conflictes.
+- Torn pacífic: alternança pactada de partits al govern durant la Restauració.
+- Bipartidisme: sistema polític basat en dos grans partits que es reparteixen el poder.
+- Caciquisme: manipulació electoral mitjançant el control polític local.
+- Fraus electoral: alteració dels resultats electorals per mantenir el poder.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA0NjQ3MTcsMTUyNjQ3NjAyNCwxMT
-A2ODc2NDUwLDk0OTM5MzY3OF19
+eyJoaXN0b3J5IjpbMTQ3Nzc3Mzk3NiwtMTU5MDQ2NDcxNywxNT
+I2NDc2MDI0LDExMDY4NzY0NTAsOTQ5MzkzNjc4XX0=
 -->

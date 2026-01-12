@@ -6,8 +6,11 @@ Convocats per Napoleó a Baiona, on els obliga a abdicar. Agafa el poder Josep I
 
 _Pàg 72_
 2 de maig de 1808 a Madrid
-- Resistència popular, 
+- Resistència popular: guerrilles per derrotar als francesos
+- Ofensiva francesa: Napoleó intervineix directament, fent setge
+- Victòries angloespanyoles: els britanics i els espanyols vencen als francesos a ArapilesNa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NjU0NTE1LDExMDY4NzY0NTAsOTQ5Mz
-kzNjc4XX0=
+eyJoaXN0b3J5IjpbNzM3NDUzMzQsMTEwNjg3NjQ1MCw5NDkzOT
+M2NzhdfQ==
 -->

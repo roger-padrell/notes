@@ -30,14 +30,17 @@ Napoleó firma el **tractat de Valençay**, retira les tropes d'espanya.
 |Decomposició del sistema|1856-1868|política exterior colonialista, poder als uniformistes i moderats|crisi econòmica|
 
 ## Restauració borbònica
+- Estableix Alfons XII com a rei
 - Sistema canovista: monarquia constitucional
 - Bipartidisme i torn pacífic: alternen els conservadors i els liberals
 - Pacte El Pardo
-- Caciquisme: sistema de coerció social, voten els morts, 
+- Caciquisme: sistema de coerció social, voten els morts, els pobles estàn dirigits per votar
+- Sorgiment dels nacionalistes (Catalunya, Galícia i País Basc)
+- Crisi del 1898 noba insurrecció a Cuba, es dota d'autonomia
 
 ## Vocabulari
 - Desamortització
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTc0NzgyNSwxNTI2NDc2MDI0LDExMD
-Y4NzY0NTAsOTQ5MzkzNjc4XX0=
+eyJoaXN0b3J5IjpbLTE1OTA0NjQ3MTcsMTUyNjQ3NjAyNCwxMT
+A2ODc2NDUwLDk0OTM5MzY3OF19
 -->

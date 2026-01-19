@@ -54,9 +54,22 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - **Sorbet**: gelat lleuger, generalment fet amb fruita i sense llet, de textura fina.
 - **Soterrani**: espai situat sota el nivell del terra, sovint utilitzat com a magatzem o aparcament.
 - **Comandament**: aparell que controla un dispositiu electrònic, com una televisió.
+---
+- **Espacial**: referent a l'espai o l'univers.
+- **Seitó**: tipus de peix petit, sovint utilitzat en conserves.
+- **Mort el gos, morta la ràbia**: quan es resol un conflicte, es dissol també la causa de la ira.
+- **Saharaui**: persona originària del Sàhara, amb una cultura i història pròpies.
+- **Bufador**: aparell o persona que produeix corrent d'aire; pot referir-se també a un vent.
+---
+- **Cantar-les clares**: retreure a algú els defectes o fer-li veure les seves errades de manera directa.
+**Fer escarafalls**: fer una demostració exagerada de reprovació o descontentament.
+c) Fer-ne de tots colors
 
+Fer-ne de tots colors: comportar-se de manera deshonesta o poc adequada; fer actes reprovables.
+d) Dir les coses pel seu nom
 
+Dir les coses pel seu nom: parlar amb franquesa, sense disfresses ni eufemismes; ser directe i clar en les opinions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTAzNTYxMSwtNjk3MDMzNjIwLDE4Nj
+eyJoaXN0b3J5IjpbMTE2MDMyODE2NCwtNjk3MDMzNjIwLDE4Nj
 MzNTQzMDgsNjMyNDQzNDAwXX0=
 -->

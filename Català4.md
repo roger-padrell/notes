@@ -42,6 +42,10 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - _Ubi sunt?_: "On són?". Interrogació retòrica per reflexionar sobre els morts.
 - _Descriptio puellae_: descripció de la noia, idealitzada, se'n lloa la bellesa (cabells, rostre, ulls).
 - _Vulnus amoris_: "la ferida de l'amor"
+
+## Vocabulari
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzM1NDMwOCw2MzI0NDM0MDBdfQ==
+eyJoaXN0b3J5IjpbLTY5NzAzMzYyMCwxODYzMzU0MzA4LDYzMj
+Q0MzQwMF19
 -->

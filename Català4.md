@@ -17,7 +17,7 @@
 ## Clementina Arderiu
 - Idealitza la **vida quotidiana**.
 - Va formar part del cercle de dones intel·lectuals i artistes de la pintora russa Olga Sacharoff. En aquest grup hi havia pintors, escultors i escriptors.
-- La seva obra era semblant a la de **K**
+- La seva obra era semblant a la de **Josep Carner**, principalment en cançons amb temàtica amorosa, religiosa, o tractant la feminitat.
 
 ## Variació linguística
 
@@ -67,6 +67,6 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - **Fer-ne de tots colors**: comportar-se de manera deshonesta o poc adequada; fer actes reprovables.
 - **Dir les coses pel seu nom**: parlar amb franquesa, sense disfresses ni eufemismes; ser directe i clar en les opinions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM2Mzk1ODEsLTE0MzU5NTk3MzIsLT
-Y5NzAzMzYyMCwxODYzMzU0MzA4LDYzMjQ0MzQwMF19
+eyJoaXN0b3J5IjpbLTc0Nzg1MDAyOCwtMTQzNTk1OTczMiwtNj
+k3MDMzNjIwLDE4NjMzNTQzMDgsNjMyNDQzNDAwXX0=
 -->

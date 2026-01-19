@@ -62,14 +62,10 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - **Bufador**: aparell o persona que produeix corrent d'aire; pot referir-se també a un vent.
 ---
 - **Cantar-les clares**: retreure a algú els defectes o fer-li veure les seves errades de manera directa.
-**Fer escarafalls**: fer una demostració exagerada de reprovació o descontentament.
-c) Fer-ne de tots colors
-
-Fer-ne de tots colors: comportar-se de manera deshonesta o poc adequada; fer actes reprovables.
-d) Dir les coses pel seu nom
-
-Dir les coses pel seu nom: parlar amb franquesa, sense disfresses ni eufemismes; ser directe i clar en les opinions.
+- **Fer escarafalls**: fer una demostració exagerada de reprovació o descontentament.
+- **Fer-ne de tots colors**: comportar-se de manera deshonesta o poc adequada; fer actes reprovables.
+- **Dir les coses pel seu nom**: parlar amb franquesa, sense disfresses ni eufemismes; ser directe i clar en les opinions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDMyODE2NCwtNjk3MDMzNjIwLDE4Nj
-MzNTQzMDgsNjMyNDQzNDAwXX0=
+eyJoaXN0b3J5IjpbLTE0MzU5NTk3MzIsLTY5NzAzMzYyMCwxOD
+YzMzU0MzA4LDYzMjQ0MzQwMF19
 -->

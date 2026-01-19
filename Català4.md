@@ -40,7 +40,7 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - _Locus amoenus_: lloc amè, agradable
 - _Carpe diem_: aprofita el dia
 - _Ubi sunt?_: "On són?". Interrogació retòrica per reflexionar sobre els morts.
-- _
+- _Des
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTMyNDQ5Myw2MzI0NDM0MDBdfQ==
+eyJoaXN0b3J5IjpbMTg1MzIxNjE4MSw2MzI0NDM0MDBdfQ==
 -->

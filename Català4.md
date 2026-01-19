@@ -1,6 +1,5 @@
 # Català prova 4
 ## Carles Riba
-- **Bucòliques**: èglogues (poesies que provenen del llatí. Els protagonistes són pastors que canten o reciten en un paisatge *locus amoenus*, un lloc agradable, pertorbat per canvis polítics o passions amoroses)
 - **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
 - Va ser elegit el **1932** membre de l'_Institut d'Estudis Catalans_ (**IEC**) on va col·laborar per fer el diccionari amb Pompeu Fabra.
 - És un dels autor més importants de la _postguerra_ i el s. XX
@@ -8,6 +7,7 @@
 - Les seves influències van començar sent **modernistes** (Joan Maragall) pero després es va decantar per l'estil **noucentista**.
 
 ### Obra
+- _Bucòliques_: èglogues (poesies que provenen del llatí. Els protagonistes són pastors que canten o reciten en un paisatge *locus amoenus*, un lloc agradable, pertorbat per canvis polítics o passions amoroses)
 - _Estances_: temàtica amorosa i autoconeixement
 - _Elegies de Bierville_: les va escriure exiliat a Bierville
 - _Del joc i del foc_: introdueix la TANKA, estrofa d'origen japonès de 5 versos.
@@ -67,6 +67,7 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - **Fer-ne de tots colors**: comportar-se de manera deshonesta o poc adequada; fer actes reprovables.
 - **Dir les coses pel seu nom**: parlar amb franquesa, sense disfresses ni eufemismes; ser directe i clar en les opinions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzg1MDAyOCwtMTQzNTk1OTczMiwtNj
-k3MDMzNjIwLDE4NjMzNTQzMDgsNjMyNDQzNDAwXX0=
+eyJoaXN0b3J5IjpbLTk4ODI3NTE4LC03NDc4NTAwMjgsLTE0Mz
+U5NTk3MzIsLTY5NzAzMzYyMCwxODYzMzU0MzA4LDYzMjQ0MzQw
+MF19
 -->

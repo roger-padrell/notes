@@ -40,7 +40,8 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 - _Locus amoenus_: lloc amè, agradable
 - _Carpe diem_: aprofita el dia
 - _Ubi sunt?_: "On són?". Interrogació retòrica per reflexionar sobre els morts.
-- _Des
+- _Descriptio puellae_: descripció de la noia, idealitzada, se'n lloa la bellesa (cabells, rostre, ulls).
+- _Vulnus amoris_: "la ferida de l'amor"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzIxNjE4MSw2MzI0NDM0MDBdfQ==
+eyJoaXN0b3J5IjpbMTg2MzM1NDMwOCw2MzI0NDM0MDBdfQ==
 -->

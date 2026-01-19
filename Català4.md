@@ -45,7 +45,18 @@ Llengua **estàndard**: garanteix la comunicació entre els parlants d'una matei
 
 ## Vocabulari
 
+- **Vial**: relacionat amb les vies de comunicació, especialment les carreteres.
+- **Calci**: mineral essencial per al desenvolupament d'ossos i dents, important en la nutrició.
+- **Caixa**: objecte petit amb tapa per guardar o transportar coses.
+- **Capsa**: forma més gran, sovint utilitzada per emmagatzemar articles.
+- **Bàscula**: instrument per mesurar el pes d'objectes o persones.
+- **Data**: moment o dia concret en què es realitza un esdeveniment; informació temporal.
+- **Sorbet**: gelat lleuger, generalment fet amb fruita i sense llet, de textura fina.
+- **Soterrani**: espai situat sota el nivell del terra, sovint utilitzat com a magatzem o aparcament.
+- **Comandament**: aparell que controla un dispositiu electrònic, com una televisió.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzAzMzYyMCwxODYzMzU0MzA4LDYzMj
-Q0MzQwMF19
+eyJoaXN0b3J5IjpbMTA3OTAzNTYxMSwtNjk3MDMzNjIwLDE4Nj
+MzNTQzMDgsNjMyNDQzNDAwXX0=
 -->

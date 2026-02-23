@@ -16,8 +16,11 @@
 - Verbos en -servar, -versar.
 - Formas del verbo ir (voy, vas, va).
 
-### Extranjerismos
+## Léxico
+### Extranjerismos y préstamos
 Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitarse** cuando ya existen elementos equivalentes en la propia lengua, pero si no existen pueden **incorporarse** y reciben el nombre de **préstamos**.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzc3ODkyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODkzMzM3ODQxLDczMDk5ODExNl19
 -->

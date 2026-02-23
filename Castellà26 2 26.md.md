@@ -17,7 +17,7 @@
 - Formas del verbo ir (voy, vas, va).
 
 ### Extranjerismos
-Palabras, frases o giros que una lengua toma de otra extranjera.
+Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitarse** cuando ya existen elementos equivalentes en la propia lengua, pero si no existen pueden **incorporarse** y reciben el nombre de **préstamos**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mzg2NjU5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTUzMzc3ODkyNiw3MzA5OTgxMTZdfQ==
 -->

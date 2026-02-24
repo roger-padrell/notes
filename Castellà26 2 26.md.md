@@ -43,9 +43,12 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 - Personajes con necesidades reales
 - Lenguaje sobrio y sencillo
 
-#### Principales reprersent
+#### Principales representantes
+- Francia:
+	- Henré Beyle "Stendhal" - _Rojo y negro_
+	- Gustave Flaubert - "_Madame Bovary_ - _Salambó_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcwMTM3MjIsODkzMzM3ODQxLDczMD
+eyJoaXN0b3J5IjpbLTIwMzc3ODc4NDAsODkzMzM3ODQxLDczMD
 k5ODExNl19
 -->

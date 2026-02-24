@@ -59,11 +59,17 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 - España:
 	- Benito Pérez Galdós: _Fortunata y Jacinta_ - _Doña Perfecta_
 	- Leopoldo Alas (Clarín) - _La Regenta_
-	- Emilia Pardo 
+	- Emilia Pardo Bazón - _Los pazos de Ulloa_
 
 
 #### Madame Bovary
+
+### Naturalismo
+- Etapa final del realismo, **extremista**.
+- Influencia extrema de la ciencia.
+- Muestra la realidad de forma objetiva.
+- Represe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDE5NjAxNCw4OTMzMzc4NDEsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5NDY4NDMyNjQsODkzMzM3ODQxLDczMD
+k5ODExNl19
 -->

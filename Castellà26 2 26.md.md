@@ -33,8 +33,19 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 - Humano: ser social, esèjo de la realidad, entorno social, observación, rigor científico, objetividad
 - Lenguaje sencillo y preciso
 
-#### Carac
+#### Características
+- Verosimilidad y objetividad
+- Influenciada por el positivismo
+- Observación y descripción detallada
+- Uso del narrador omnisciente
+- Interés en la sociedad
+- Gusto por el paisaje urbano
+- Personajes con necesidades reales
+- Lenguaje sobrio y sencillo
+
+#### Principales reprersent
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDc2ODMzOSw4OTMzMzc4NDEsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMjcwMTM3MjIsODkzMzM3ODQxLDczMD
+k5ODExNl19
 -->

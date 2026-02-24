@@ -49,11 +49,15 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 	- Gustave Flaubert - [_Madame Bovary_](#madame-bovary) - _Salambó_
 	- Honoré de Balzoc - _Comedia humana_ (80 novelas)
 - Inglaterra:
-	- Charles Dickens - _Oliver Twist_ - _D
+	- Charles Dickens - _Oliver Twist_ - _David Copperfield_
+- Estados Unidos:
+	- Mark Twain - _Las aventuras de Huckleberry Finn_ - _Las aventuras de Tom Sawyer_
+- Rusia:
+	- Fiódor Dostoyevski - _Crimen y Castigo_ - _Los hermanos Karamózov_
 
 
 #### Madame Bovary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc5NTc1NTYsODkzMzM3ODQxLDczMD
+eyJoaXN0b3J5IjpbLTEwNTQ5NTIwNTQsODkzMzM3ODQxLDczMD
 k5ODExNl19
 -->

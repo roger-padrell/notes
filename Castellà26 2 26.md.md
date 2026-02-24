@@ -24,9 +24,13 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 ### Contexto histórico
 - Segunda mitad del S. XIX (**revolución industrial**)
 - Capitalismo ⇒ **Burgesía vs clase obrera**
-- Socialismo (Marx o Eg
+- Socialismo (Marx y Engels)
+- August Comte (_Positivismo_): conocimiento a través de la observación
 
+### Realismo
+- Nace en Fráncia, contraposición del romanticismo (idealismo)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MTg4MTUxLDg5MzMzNzg0MSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU1NzgyNTAwNyw4OTMzMzc4NDEsNzMwOT
+k4MTE2XX0=
 -->

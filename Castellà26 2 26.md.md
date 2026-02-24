@@ -54,10 +54,16 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 	- Mark Twain - _Las aventuras de Huckleberry Finn_ - _Las aventuras de Tom Sawyer_
 - Rusia:
 	- Fiódor Dostoyevski - _Crimen y Castigo_ - _Los hermanos Karamózov_
+	- Antón Chésjov - _Los tres hermanos_
+	- León Tolstói - _Guerra y paz_
+- España:
+	- Benito Pérez Galdós: _Fortunata y Jacinta_ - _Doña Perfecta_
+	- Leopoldo Alas (Clarín) - _La Regenta_
+	- Emilia Pardo 
 
 
 #### Madame Bovary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ5NTIwNTQsODkzMzM3ODQxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTQ2NDE5NjAxNCw4OTMzMzc4NDEsNzMwOT
+k4MTE2XX0=
 -->

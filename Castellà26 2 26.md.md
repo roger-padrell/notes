@@ -68,8 +68,10 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 - Etapa final del realismo, **extremista**.
 - Influencia extrema de la ciencia.
 - Muestra la realidad de forma objetiva.
-- Represe
+- Representantes:
+	- Émile Zola - _Germinal_
+	- Guy de Marepassant - _Bel Ami_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY4NDMyNjQsODkzMzM3ODQxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTQzODYwMDMyOSw4OTMzMzc4NDEsNzMwOT
+k4MTE2XX0=
 -->

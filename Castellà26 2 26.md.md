@@ -63,7 +63,14 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 
 
 #### Madame Bovary
+**Charles Bovary** es un niño con un padre autoritario y madre sobreprotectora. Después de mucho esfuerzo termina la carrera de **medicina**, que ejercerá en _Tostes_. Su madre le consigue una esposa: la viuda **Héloïse**, a quien no parece amar. Charles visita a un paciente, el señor **Rouault**, de cuya hija **Emma** se enamora. El tiempo transcurre y Héloïse fallece. Pasado el duelo, Charles se casa con Emma, quien es una bella mujer aficionada a la lectura y educada en un colegio de monjas. Es también sentimental, tiene ilusiones románticas sobre su futuro y desea una vida llena de lujos. Al casarse con Charles, estas ilusiones se van desmoronando y se da cuenta de que su vida no es como la había imaginado. Charles es feliz con ella, pero tiene un carácter rutinario. Emma parece resignarse hasta que un día la pareja es invitada a una fiesta en la mansión de _Audervilliers_. Emma ve ese mundo cortesano, con música, baile y vestidos. Este hecho trasciende en ella. Vive de este recuerdo que contrasta con su rutina y, poco a poco, enferma y se vuelve irritable. **Emma ahora está embarazada**. La pareja se muda a _Yonville_.
 
+Cuando llegan a su nuevo hogar, Emma conoce a **León**, un joven apuesto. Emma lleva pésimo su embarazo y, frente a la frustración de ser una mujer a quien se le limita la vida, tiene la esperanza de que su hijo sea varón. Cuando llega el día del parto, nace **Berthe**, una niña. Frente a este desencanto, no la ve hasta la sexta semana y la visita junto con León, quien se enamora de ella. Él no se atreve a decírselo, pues la ve inalcanzable, pero no sabe que Madame Bovary también siente algo por él. Desesperanzado, decide irse a París para terminar sus estudios de Derecho. Se despide de Emma, quien queda otra vez sumida en la tristeza.
+
+A Yonville llega un hombre adinerado llamado **Rodolfo**. Este se fija en Madame Bovary y decide conquistarla. En una feria busca conversación con ella y llega a tomarla de la mano. A este encuentro le siguen otros en los que Emma termina entregándose. Madame Bovary, siempre en su universo romántico, se enamora de Rodolfo, imagina un futuro con él y le propone huir. Rodolfo va aplazando esta partida y se convence de que no lo hará. Emma, otra vez triste, intenta arrojarse desde el techo de su casa. Mientras tanto, Madame Bovary se iba endeudando firmando pagarés por compras que realizaba.  
+Un día Charles y Emma viajan a _Ruán_ a asistir a una ópera y se encuentran con León, quien ya había regresado de Francia.
+
+León le pide a Charles llevar a Emma a cabalgar. Ella le deja una carta para evitarlo, pero él la sube a un coche y pide al cochero que no se detenga; así inicia el intenso idilio entre ambos. Para ocultar sus encuentros, Emma le dice a Charles que asistirá a unas clases de piano en Ruán, pero en realidad visita a León. Madame Bovary continúa endeudándose, pues vivía entregada a sus pasiones, hasta que un día le llegó la **carta de embargo** en la que le daban 24 horas para pagar su deuda. Emma va donde su acreedor para que le perdone, pero este la rechaza. Busca a León, pero no le puede dar dinero; va incluso donde Rodolfo, pero él también le niega su ayuda. Ahora, a Emma, más que la deuda le duele el desengaño. Va a la farmacia y toma **arsénico**. Cuando llega a casa, Charles la espera para pedirle una explicación, pero solo contempla el proceso de su muerte. El señor Bovary encuentra después las cartas de amor que guardaba Emma y descubre que le fue infiel. A Rodolfo le dice sobre ella: _«No le odio, no. La culpa es de la fatalidad»_. Pasado un tiempo, Berthe encuentra a su padre muerto, tomando en una mano un mechón de cabello de quien había sido su esposa.
 
 ### Naturalismo
 - Etapa final del realismo, **extremista**.
@@ -73,6 +80,6 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 	- Émile Zola - _Germinal_
 	- Guy de Marepassant - _Bel Ami_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzIyNjUwNSwtNDM4NjAwMzI5LDg5Mz
+eyJoaXN0b3J5IjpbLTQ2MjAyNTYyMiwtNDM4NjAwMzI5LDg5Mz
 MzNzg0MSw3MzA5OTgxMTZdfQ==
 -->

@@ -64,6 +64,7 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 
 #### Madame Bovary
 
+
 ### Naturalismo
 - Etapa final del realismo, **extremista**.
 - Influencia extrema de la ciencia.
@@ -72,6 +73,6 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 	- Émile Zola - _Germinal_
 	- Guy de Marepassant - _Bel Ami_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODYwMDMyOSw4OTMzMzc4NDEsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM2NzIyNjUwNSwtNDM4NjAwMzI5LDg5Mz
+MzNzg0MSw3MzA5OTgxMTZdfQ==
 -->

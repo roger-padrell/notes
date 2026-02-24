@@ -63,9 +63,11 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 
 
 #### Madame Bovary
+> Escrita 1851 y 1856 y la publicó por entregas en La Revue de Paris. Mucho escàndalo.
+
 Narra la historia de **Emma**, una mujer soñadora que anhela una vida apasionada y lujosa, influida por sus lecturas románticas. Se casa con **Charles Bovary**, un médico sencillo y rutinario que la ama profundamente, pero cuya vida provinciana pronto la decepciona.
 
-Tras asistir a un baile aristocrático, Emma toma mayor conciencia de la mediocridad de su existencia. En Yonville, donde se mudan después, vive un matrimonio cada vez más insatisfactorio. Tiene una hija, **Berthe**, pero la maternidad tampoco colma sus expectativas. Se enamora primero de León, un joven sensible que termina marchándose, y luego de Rodolfo, un hombre seductor con quien inicia un romance y planea huir, aunque él finalmente la abandona.
+Tras asistir a un baile aristocrático, Emma toma mayor conciencia de la mediocridad de su existencia. En Yonville, donde se mudan después, vive un matrimonio cada vez más insatisfactorio. Tiene una hija, **Berthe**, pero la maternidad tampoco colma sus expectativas. Se enamora primero de **León**, un joven sensible que termina marchándose, y luego de **Rodolfo**, un hombre seductor con quien inicia un romance y planea huir, aunque él finalmente la abandona.
 
 Más tarde retoma su relación con León, ahora en Ruán, y para sostener su vida de apariencias y sus aventuras amorosas se endeuda gravemente. Cuando sus acreedores exigen el pago inmediato y ninguno de sus amantes la ayuda, Emma, desesperada y desengañada, se suicida con arsénico. Charles descubre después las infidelidades de su esposa, pero la sigue amando y acaba muriendo poco tiempo después, dejando a su hija huérfana y en la miseria.
 
@@ -77,6 +79,6 @@ Más tarde retoma su relación con León, ahora en Ruán, y para sostener su vid
 	- Émile Zola - _Germinal_
 	- Guy de Marepassant - _Bel Ami_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjEzMjQ4NiwtNDM4NjAwMzI5LDg5Mz
-MzNzg0MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTYzNTY2MjEsLTQzODYwMDMyOSw4OT
+MzMzc4NDEsNzMwOTk4MTE2XX0=
 -->

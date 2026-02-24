@@ -46,9 +46,14 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 #### Principales representantes
 - Francia:
 	- Henré Beyle "Stendhal" - _Rojo y negro_
-	- Gustave Flaubert - "_Madame Bovary_ - _Salambó_
+	- Gustave Flaubert - [_Madame Bovary_](#madame-bovary) - _Salambó_
+	- Honoré de Balzoc - _Comedia humana_ (80 novelas)
+- Inglaterra:
+	- Charles Dickens - _Oliver Twist_ - _D
 
+
+#### Madame Bovary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc3ODc4NDAsODkzMzM3ODQxLDczMD
+eyJoaXN0b3J5IjpbLTExNTc5NTc1NTYsODkzMzM3ODQxLDczMD
 k5ODExNl19
 -->

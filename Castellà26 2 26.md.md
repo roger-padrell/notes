@@ -28,9 +28,13 @@ Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitars
 - August Comte (_Positivismo_): conocimiento a través de la observación
 
 ### Realismo
-- Nace en Fráncia, contraposición del romanticismo (idealismo)
-- 
+- Nace en Fráncia, contraposición del romanticismo (_idealismo_)
+- Ambiente social, contexto histórico, vivencias personales
+- Humano: ser social, esèjo de la realidad, entorno social, observación, rigor científico, objetividad
+- Lenguaje sencillo y preciso
+
+#### Carac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzgyNTAwNyw4OTMzMzc4NDEsNzMwOT
+eyJoaXN0b3J5IjpbMTY4MDc2ODMzOSw4OTMzMzc4NDEsNzMwOT
 k4MTE2XX0=
 -->

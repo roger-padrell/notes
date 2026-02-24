@@ -21,8 +21,12 @@
 Palabras, frases o giros que una lengua toma de otra extranjera. Deben **evitarse** cuando ya existen elementos equivalentes en la propia lengua, pero si no existen pueden **incorporarse** y reciben el nombre de **préstamos**.
 
 ## Literatura
+### Contexto histórico
+- Segunda mitad del S. XIX (**revolución industrial**)
+- Capitalismo ⇒ **Burgesía vs clase obrera**
+- Socialismo (Marx o Eg
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTA4Mjg0NCw4OTMzMzc4NDEsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMzU2MTg4MTUxLDg5MzMzNzg0MSw3MzA5OT
+gxMTZdfQ==
 -->

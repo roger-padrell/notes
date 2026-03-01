@@ -11,8 +11,10 @@
 - **CD** (lo, la, los, las): 
 	- _a_ + ser vivo
 	- verbo transitivo para darle significado
-- **CI** : 
+- **CI** (le, les, se): GPrep (_a_ + sust), si hay CD
+- **CRV/CPrep**: GPrep exigido por algunos verbos
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0ODUxMzg0LDMzNjg5NDU3OCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzkwNDEzNjcsMzM2ODk0NTc4LDczMD
+k5ODExNl19
 -->

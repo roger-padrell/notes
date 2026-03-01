@@ -22,8 +22,11 @@
 	- finalidad: objetivo de la acción
 	- compañía: con quién
 	- causa: el porque de la acción
-	- instrume
+	- instrumento: herramienta usada (_con/sin_)
+	- cantidad: cantidad, intensidad o grado de la acción
+	- destinatário: quien obtiene el destino (generalmente sustituido por el CI)
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDc4MzM1MCwzMzY4OTQ1NzgsNzMwOT
+eyJoaXN0b3J5IjpbLTc0OTkzMzk3NSwzMzY4OTQ1NzgsNzMwOT
 k4MTE2XX0=
 -->

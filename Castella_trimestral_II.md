@@ -67,11 +67,13 @@
 
 ### José de Espronceda _(1808-1842)_
 - de izquierdas, activo políticamente, llegó a ser diputado
-- 
+- mezcla géneros y esquemas métricos
+- Transmite:
+	- ideales románticos _(Canci´)_
 - murió de difteria a los 34 años
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE3MjA3MzMsLTk5MTM3NjgxLDI4Mj
-M3Nzc2NSw4MzE4ODc3MzYsMTE3OTg5NzM5OSwtMTg4MzE5NjMy
-OSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA1NDM3NjY0NSwtOTkxMzc2ODEsMjgyMz
+c3NzY1LDgzMTg4NzczNiwxMTc5ODk3Mzk5LC0xODgzMTk2MzI5
+LC00MTU5NTY2NzksMzM2ODk0NTc4LDczMDk5ODExNl19
 -->

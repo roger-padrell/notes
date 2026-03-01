@@ -58,9 +58,15 @@
 - **Las _Rimas_**: 
 	- poemas líricos
 	- imitan las composiciones de caràcter popular (paralelismo, correlación, léxico sencillo, rima asonante)
-	- temas: deseo de expresarse a través de la poesía, análisis de sus estados de ánimo en sus vivéncias amorosas (
+	- temas: 
+		- deseo de expresarse a través de la poesía
+		- análisis de sus estados de ánimo en sus vivéncias amorosas (felicidad, desaliento, incomprensión)
+		- desolación y pesimismo ante la vida
+- **Las _Leyendas_**: relatos fantásticos, de inspiración medieval, escritos en prosa
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzg0Mzg4OCw4MzE4ODc3MzYsMTE3OT
+eyJoaXN0b3J5IjpbLTQ4NDg4NjAzMyw4MzE4ODc3MzYsMTE3OT
 g5NzM5OSwtMTg4MzE5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3
 OCw3MzA5OTgxMTZdfQ==
 -->

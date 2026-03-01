@@ -69,11 +69,12 @@
 - de izquierdas, activo políticamente, llegó a ser diputado
 - mezcla géneros y esquemas métricos
 - Transmite:
-	- ideales románticos _(Canci´)_
+	- ideales románticos: _Canción del pirata_
+	- experiencia vital y amorosa: _Canto a teresa (El diablo mundo)_
 - murió de difteria a los 34 años
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDM3NjY0NSwtOTkxMzc2ODEsMjgyMz
-c3NzY1LDgzMTg4NzczNiwxMTc5ODk3Mzk5LC0xODgzMTk2MzI5
-LC00MTU5NTY2NzksMzM2ODk0NTc4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE5ODc4NzM3MjIsLTk5MTM3NjgxLDI4Mj
+M3Nzc2NSw4MzE4ODc3MzYsMTE3OTg5NzM5OSwtMTg4MzE5NjMy
+OSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZdfQ==
 -->

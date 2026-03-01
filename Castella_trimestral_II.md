@@ -13,8 +13,11 @@
 	- verbo transitivo para darle significado
 - **CI** (le, les, se): GPrep (_a_ + sust), si hay CD
 - **CRV/CPrep**: GPrep exigido por algunos verbos
-- 
+- **CAtr**: acompaña a un _verbo copulativo_ (predicado nominal)
+- **CPred**: GAdj / GN, concuerda con el sujeto
+- **CC**:
+	- lugar: información sobre 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkwNDEzNjcsMzM2ODk0NTc4LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTg0MjM2Mjk4MSwzMzY4OTQ1NzgsNzMwOT
+k4MTE2XX0=
 -->

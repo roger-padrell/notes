@@ -53,9 +53,10 @@
 	- _Isabel tiene muchos amigos **porque** es una persona muy agradable_ (subordinada) ⇒ _Isabel tiene muchos amigos **;** es una persona muy agradable_.
 
 ## Romanticismo
+### Béquer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxODg3NzM2LDExNzk4OTczOTksLTE4OD
-MxOTYzMjksLTQxNTk1NjY3OSwzMzY4OTQ1NzgsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTE1NzYyNjgyMDcsODMxODg3NzM2LDExNz
+k4OTczOTksLTE4ODMxOTYzMjksLTQxNTk1NjY3OSwzMzY4OTQ1
+NzgsNzMwOTk4MTE2XX0=
 -->

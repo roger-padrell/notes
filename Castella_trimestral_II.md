@@ -53,10 +53,11 @@
 	- _Isabel tiene muchos amigos **porque** es una persona muy agradable_ (subordinada) ⇒ _Isabel tiene muchos amigos **;** es una persona muy agradable_.
 
 ## Romanticismo
-### Béquer
-
+### Gustavo Adolfo Béquer _(1836-1870)_
+- Diversas publicaciones, vida precària
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYyNjgyMDcsODMxODg3NzM2LDExNz
+eyJoaXN0b3J5IjpbLTIwNzkxNDM2OTUsODMxODg3NzM2LDExNz
 k4OTczOTksLTE4ODMxOTYzMjksLTQxNTk1NjY3OSwzMzY4OTQ1
 NzgsNzMwOTk4MTE2XX0=
 -->

@@ -41,10 +41,10 @@
 	- **Eventuales**: no se expresa o interesa el sujeto (_llaman a la puerta_)
 
 ## Identificar oraciones compuestas
-- **Coordinada**: mismo nivel, sin dependéncia
-	- Nexos: 
+- **Coordinada**: mismo nivel, sin dependéncia, puedes separar la oración
+	- Nexos: conjunciones / locuciones conjuntivas (_sin embargo, no obstante..._)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjA5MzA1NSwxMTc5ODk3Mzk5LC0xOD
-gzMTk2MzI5LC00MTU5NTY2NzksMzM2ODk0NTc4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbODEwMDczMDMsMTE3OTg5NzM5OSwtMTg4Mz
+E5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZd
+fQ==
 -->

@@ -46,9 +46,11 @@
 	- _Compró pan **e** hizo café_ = _Compró pan. Hizo café._
 - **Subordinada**: una proposición depende de la otra, _no las puedes separar manteniendo el sentido_
 	- Nexos: conjunciones (_que, si_), locucuón conjuntiva (_para que, ya que_), pN. relativo (_que, quien_), adv. relativo (_donde, cuando_) y pN. y adv. interrogativos (_qué, cómo, cuándo, dónde_)
-	- _Estudia para que apruebes_ ≠ _Estudia
+	- _Estudia **para que** apruebes._ ≠ _Estudia. Apruebes._
+	- _No sé **qué** quieres._ ≠ _No sé. Quieres._
+- **Yuxtapuesta**: hace función de  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNTUxMjEsMTE3OTg5NzM5OSwtMTg4Mz
-E5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMDcxNDA1OTksMTE3OTg5NzM5OSwtMT
+g4MzE5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgx
+MTZdfQ==
 -->

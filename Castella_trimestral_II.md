@@ -63,10 +63,11 @@
 		- análisis de sus estados de ánimo en sus vivéncias amorosas (felicidad, desaliento, incomprensión)
 		- desolación y pesimismo ante la vida
 - **Las _Leyendas_**: relatos fantásticos, de inspiración medieval, escritos en prosa
+- muere de tuberculosi a los 34 pobre y desconocido, ahora es de los más grandes de la história
 
-### 
+### José de Espronceda _(1808-1842)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMzc3NzY1LDgzMTg4NzczNiwxMTc5OD
-k3Mzk5LC0xODgzMTk2MzI5LC00MTU5NTY2NzksMzM2ODk0NTc4
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTk5MTM3NjgxLDI4MjM3Nzc2NSw4MzE4OD
+c3MzYsMTE3OTg5NzM5OSwtMTg4MzE5NjMyOSwtNDE1OTU2Njc5
+LDMzNjg5NDU3OCw3MzA5OTgxMTZdfQ==
 -->

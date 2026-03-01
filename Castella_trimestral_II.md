@@ -16,8 +16,14 @@
 - **CAtr**: acompaña a un _verbo copulativo_ (predicado nominal)
 - **CPred**: GAdj / GN, concuerda con el sujeto
 - **CC**:
-	- lugar: información sobre 
+	- lugar: información sobre un sitio
+	- tiempo: cuando tiene lugar la acción
+	- modo o manera: como tiene lugar la acción
+	- finalidad: objetivo de la acción
+	- compañía: con quién
+	- causa: el porque de la acción
+	- instrume
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjM2Mjk4MSwzMzY4OTQ1NzgsNzMwOT
+eyJoaXN0b3J5IjpbMTMzMDc4MzM1MCwzMzY4OTQ1NzgsNzMwOT
 k4MTE2XX0=
 -->

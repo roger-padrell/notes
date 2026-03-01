@@ -25,8 +25,11 @@
 	- instrumento: herramienta usada (_con/sin_)
 	- cantidad: cantidad, intensidad o grado de la acción
 	- destinatário: quien obtiene el destino (generalmente sustituido por el CI)
-	- 
+	- negación
+	- afirmación
+
+## Clases de oraciones activas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTkzMzk3NSwzMzY4OTQ1NzgsNzMwOT
+eyJoaXN0b3J5IjpbLTQxNTk1NjY3OSwzMzY4OTQ1NzgsNzMwOT
 k4MTE2XX0=
 -->

@@ -38,8 +38,8 @@
 	- **Unipersonales**: fenómenos naturales (_nieva_)
 	- **Gramaticalizadas**: _haber, hacer y ser_ (_**hace** buen tiempo_)
 	- **Reflejas**: _se_ + verbo en voz activa (_**se** trabaja poco_)
-	- **Eventuales**: no se expresa ni int
+	- **Eventuales**: no se expresa o interesa el sujeto (_llaman a la puerta_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjIwNzA4OCwtNDE1OTU2Njc5LDMzNj
+eyJoaXN0b3J5IjpbMTMxNjUyNjAzMCwtNDE1OTU2Njc5LDMzNj
 g5NDU3OCw3MzA5OTgxMTZdfQ==
 -->

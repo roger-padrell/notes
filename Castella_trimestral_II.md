@@ -48,9 +48,10 @@
 	- Nexos: conjunciones (_que, si_), locucuón conjuntiva (_para que, ya que_), pN. relativo (_que, quien_), adv. relativo (_donde, cuando_) y pN. y adv. interrogativos (_qué, cómo, cuándo, dónde_)
 	- _Estudia **para que** apruebes._ ≠ _Estudia. Apruebes._
 	- _No sé **qué** quieres._ ≠ _No sé. Quieres._
-- **Yuxtapuesta**: hace función de  
+- **Yuxtapuesta**: hace función de **subordinada** o **coordinada** pero con signos de puntuación en lugar de nexos.
+	- _Él lee **y** ella mira la televisión_ ⇒ _Él lee, el_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcxNDA1OTksMTE3OTg5NzM5OSwtMT
-g4MzE5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbNzcyMDYxMjM1LDExNzk4OTczOTksLTE4OD
+MxOTYzMjksLTQxNTk1NjY3OSwzMzY4OTQ1NzgsNzMwOTk4MTE2
+XX0=
 -->

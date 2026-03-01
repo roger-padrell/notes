@@ -44,9 +44,10 @@
 - **Coordinada**: mismo nivel, sin dependéncia, _puedes separar las proposiciones y mantiene el sentido_
 	- Nexos: conjunciones (_y, pero, o..._) / locuciones conjuntivas (_sin embargo, no obstante..._)
 	- _Compró pan **e** hizo café_ ⇒ _Compró pan. Hizo café._
-- **Subordinada**: una proposición dep
+- **Subordinada**: una proposición depende de la otra, _no las puedes separar manteniendo el sentido_
+	- Nexos: con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTUwNTI2NywxMTc5ODk3Mzk5LC0xOD
+eyJoaXN0b3J5IjpbMTIwMzQ4NjcxMywxMTc5ODk3Mzk5LC0xOD
 gzMTk2MzI5LC00MTU5NTY2NzksMzM2ODk0NTc4LDczMDk5ODEx
 Nl19
 -->

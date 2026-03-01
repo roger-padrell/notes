@@ -66,9 +66,12 @@
 - muere de tuberculosi a los 34 pobre y desconocido, ahora es de los más grandes de la história
 
 ### José de Espronceda _(1808-1842)_
-- de izquierdas, activo 
+- de izquierdas, activo políticamente, llegó a ser diputado
+- 
+- murió de difteria a los 34 años
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg4NzQ0NjIsLTk5MTM3NjgxLDI4Mj
+eyJoaXN0b3J5IjpbLTE5ODE3MjA3MzMsLTk5MTM3NjgxLDI4Mj
 M3Nzc2NSw4MzE4ODc3MzYsMTE3OTg5NzM5OSwtMTg4MzE5NjMy
 OSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZdfQ==
 -->

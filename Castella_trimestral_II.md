@@ -55,12 +55,12 @@
 ## Romanticismo
 ### Gustavo Adolfo Béquer _(1836-1870)_
 - Diversas publicaciones, vida precària
-- Las _Rimas_: 
+- **Las _Rimas_**: 
 	- poemas líricos
-	- imitan las composiciones de caràcter popular (paralelismo, correlación, léxico sencillo, rima asonante
-	- 
+	- imitan las composiciones de caràcter popular (paralelismo, correlación, léxico sencillo, rima asonante)
+	- temas: deseo de expresarse a través de la poesía, análisis de sus estados de ánimo en sus vivéncias amorosas (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjk2MjY3Miw4MzE4ODc3MzYsMTE3OT
+eyJoaXN0b3J5IjpbLTU1Nzg0Mzg4OCw4MzE4ODc3MzYsMTE3OT
 g5NzM5OSwtMTg4MzE5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3
 OCw3MzA5OTgxMTZdfQ==
 -->

@@ -73,6 +73,8 @@
 	- experiencia vital y amorosa: _Canto a teresa (El diablo mundo)_
 - murió de difteria a los 34 años
 
+### Mariano José de Larra
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc4NzM3MjJdfQ==
+eyJoaXN0b3J5IjpbLTY3NzIyMDE0XX0=
 -->

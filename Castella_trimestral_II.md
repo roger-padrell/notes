@@ -30,8 +30,10 @@
 
 ## Clases de oraciones activas
 - **Transitivas / intransitivas**: llevan (o no) un _CD_
-- **Reflexivas**:
+- **Reflexivas**: los pN reflexivos átonos (me, te, se, nos, os) son _CD_ o _CI_
+	- _Tu **te** lavas las manos_
+- **Recíprocas**: más de 2 sujetos re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEzOTE2ODgsLTQxNTk1NjY3OSwzMz
-Y4OTQ1NzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MzY2MDAyNSwtNDE1OTU2Njc5LDMzNj
+g5NDU3OCw3MzA5OTgxMTZdfQ==
 -->

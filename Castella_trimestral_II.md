@@ -4,7 +4,7 @@
 - [Complementos verbales (todos). pág 90, 91 y 92](#complementos-verbales)
 - [Clases de oraciones activas. pág 96 y 97](#clases-de-oraciones-activas)
 - Análisis morfosintáctico de oraciones SIMPLES.
-- Identificar oraciones compuestas. pág 123 a 128.
+- [Identificar oraciones compuestas. pág 123 a 128](#identificar-oraciones-compuestas)
 - Romanticismo: sólo Bécquer, Espronceda, José de Larra y Duque de Rivas.
 
 ## Complementos verbales
@@ -39,7 +39,10 @@
 	- **Gramaticalizadas**: _haber, hacer y ser_ (_**hace** buen tiempo_)
 	- **Reflejas**: _se_ + verbo en voz activa (_**se** trabaja poco_)
 	- **Eventuales**: no se expresa o interesa el sujeto (_llaman a la puerta_)
+
+## Identificar oraciones compuestas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMxOTYzMjksLTQxNTk1NjY3OSwzMz
-Y4OTQ1NzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE3OTg5NzM5OSwtMTg4MzE5NjMyOSwtND
+E1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZdfQ==
 -->

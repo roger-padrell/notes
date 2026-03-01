@@ -5,7 +5,7 @@
 - [Clases de oraciones activas. pág 96 y 97](#clases-de-oraciones-activas)
 - Análisis morfosintáctico de oraciones SIMPLES.
 - [Identificar oraciones compuestas. pág 123 a 128](#identificar-oraciones-compuestas)
-- Romanticismo: sólo Bécquer, Espronceda, José de Larra y Duque de Rivas.
+- [Romanticismo: sólo Bécquer, Espronceda, José de Larra y Duque de Rivas](#romanticismo)
 
 ## Complementos verbales
 - **CD** (lo, la, los, las): 
@@ -49,10 +49,13 @@
 	- _Estudia **para que** apruebes._ ≠ _Estudia. Apruebes._
 	- _No sé **qué** quieres._ ≠ _No sé. Quieres._
 - **Yuxtapuesta**: hace función de **subordinada** o **coordinada** pero con signos de puntuación en lugar de nexos.
-	- _Él lee **y** ella mira la televisión_ (copulativa) ⇒ _Él lee, ella mira la televisión_
-	- _Isabel tiene muchos amigos **porque** es una persona muy agradable_ (subordinada) ⇒ _Isabel tiene muchos amig_
+	- _Él lee **y** ella mira la televisión_ (copulativa) ⇒ _Él lee **,** ella mira la televisión_
+	- _Isabel tiene muchos amigos **porque** es una persona muy agradable_ (subordinada) ⇒ _Isabel tiene muchos amigos **;** es una persona muy agradable_.
+
+## Romanticismo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTkyNTA1LDExNzk4OTczOTksLTE4OD
+eyJoaXN0b3J5IjpbODMxODg3NzM2LDExNzk4OTczOTksLTE4OD
 MxOTYzMjksLTQxNTk1NjY3OSwzMzY4OTQ1NzgsNzMwOTk4MTE2
 XX0=
 -->

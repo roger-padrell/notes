@@ -49,9 +49,10 @@
 	- _Estudia **para que** apruebes._ ≠ _Estudia. Apruebes._
 	- _No sé **qué** quieres._ ≠ _No sé. Quieres._
 - **Yuxtapuesta**: hace función de **subordinada** o **coordinada** pero con signos de puntuación en lugar de nexos.
-	- _Él lee **y** ella mira la televisión_ ⇒ _Él lee, el_
+	- _Él lee **y** ella mira la televisión_ (copulativa) ⇒ _Él lee, ella mira la televisión_
+	- _Isabel tiene muchos amigos **porque** es una persona muy agradable_ (subordinada) ⇒ _Isabel tiene muchos amig_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMDYxMjM1LDExNzk4OTczOTksLTE4OD
+eyJoaXN0b3J5IjpbMjI2NTkyNTA1LDExNzk4OTczOTksLTE4OD
 MxOTYzMjksLTQxNTk1NjY3OSwzMzY4OTQ1NzgsNzMwOTk4MTE2
 XX0=
 -->

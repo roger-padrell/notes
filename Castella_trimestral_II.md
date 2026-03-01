@@ -8,8 +8,11 @@
 - Romanticismo: sólo Bécquer, Espronceda, José de Larra y Duque de Rivas.
 
 ## Complementos verbales
-- **CD**: 
+- **CD** (lo, la, los, las): 
+	- _a_ + ser vivo
+	- verbo transitivo para darle significado
+- **CI** : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzE1MzY3MywzMzY4OTQ1NzgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbNjM0ODUxMzg0LDMzNjg5NDU3OCw3MzA5OT
+gxMTZdfQ==
 -->

@@ -1,6 +1,6 @@
 # Castellano II trimestral
 
-## Índice
+## ¿Que entra en el examen?
 - [Complementos verbales (todos). pág 90, 91 y 92](#complementos-verbales)
 - [Clases de oraciones activas. pág 96 y 97](#clases-de-oraciones-activas)
 - Análisis morfosintáctico de oraciones SIMPLES.
@@ -40,6 +40,6 @@
 	- **Reflejas**: _se_ + verbo en voz activa (_**se** trabaja poco_)
 	- **Eventuales**: no se expresa o interesa el sujeto (_llaman a la puerta_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjUyNjAzMCwtNDE1OTU2Njc5LDMzNj
-g5NDU3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4ODMxOTYzMjksLTQxNTk1NjY3OSwzMz
+Y4OTQ1NzgsNzMwOTk4MTE2XX0=
 -->

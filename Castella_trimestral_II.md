@@ -43,11 +43,12 @@
 ## Identificar oraciones compuestas
 - **Coordinada**: mismo nivel, sin dependéncia, _puedes separar las proposiciones y mantiene el sentido_
 	- Nexos: conjunciones (_y, pero, o..._) / locuciones conjuntivas (_sin embargo, no obstante..._)
-	- _Compró pan **e** hizo café_ ⇒ _Compró pan. Hizo café._
+	- _Compró pan **e** hizo café_ = _Compró pan. Hizo café._
 - **Subordinada**: una proposición depende de la otra, _no las puedes separar manteniendo el sentido_
-	- Nexos: conjunciones (_que, si_), locucuón conjuntiva (_para que, ya que_), pN. relativo (_que, quien_), a relativo (_donde, cuando_) y pN. y adv. interrogativos
+	- Nexos: conjunciones (_que, si_), locucuón conjuntiva (_para que, ya que_), pN. relativo (_que, quien_), adv. relativo (_donde, cuando_) y pN. y adv. interrogativos (_qué, cómo, cuándo, dónde_)
+	- _Estudia para que apruebes_ ≠ _Estudia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTUxOTA4MiwxMTc5ODk3Mzk5LC0xOD
-gzMTk2MzI5LC00MTU5NTY2NzksMzM2ODk0NTc4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbNDMxNTUxMjEsMTE3OTg5NzM5OSwtMTg4Mz
+E5NjMyOSwtNDE1OTU2Njc5LDMzNjg5NDU3OCw3MzA5OTgxMTZd
+fQ==
 -->

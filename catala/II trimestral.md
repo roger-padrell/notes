@@ -52,8 +52,9 @@ Fenòmens:
 	- _car no és més **que-apetit** brutal_ ⇒ _car-no-és-més-que-a-pe-tit-bru-tal_
 
 Es classifiquen en:
-- **Art menor**: >=
+- **Art menor**: ≥ 8 síl·labes, representat amb lletrea minúscula
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEyNDg5NDgsLTkyNjYzNzU5OCwzNz
+eyJoaXN0b3J5IjpbLTEyNzk3MTk4NjEsLTkyNjYzNzU5OCwzNz
 U4NzI5MTQsLTY1MjYyOTg2NV19
 -->

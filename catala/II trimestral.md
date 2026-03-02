@@ -24,8 +24,10 @@
 - **Recursos fònics**:
 	- **Al·literació**: repetició del mateix so en dos o més mots consecutius
 		- _En **P** eter **P** iper va collir un **p** edaç de **p** ebrots adobats_
-	- **Paranomàsia**: jod
+	- **Paranomàsia**: joc de paraules amb mots que només es distingeixen en algun fonema:
+		- _Per mal **argent**, cruel, **urgent**_
+	- **Anàfora**: repetició d'una o més 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ3NzIyNDEsMzc1ODcyOTE0LC02NT
+eyJoaXN0b3J5IjpbLTIwNDIyODk2OTcsMzc1ODcyOTE0LC02NT
 I2Mjk4NjVdfQ==
 -->

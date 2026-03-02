@@ -44,8 +44,9 @@
 > Els versos es mesuren segons el nombre de **síl·labes** que es conten fins a la **última síl·laba tònica**.
 
 Fenòmens:
-- **Sinalefa**: enllaç entre l'última vocal d'una paraula i la inicial de la seguent
+- **Sinalefa**: enllaç entre l'última vocal d'una paraula i la inicial de la seguent, pero mantenen sons separats en una sola síl·laba
+	- _a **cada_instant**, i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MjIxNjkzLC05MjY2Mzc1OTgsMzc1OD
-cyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MDIxODIwNzcsLTkyNjYzNzU5OCwzNz
+U4NzI5MTQsLTY1MjYyOTg2NV19
 -->

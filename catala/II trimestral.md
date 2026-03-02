@@ -90,9 +90,16 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 - ~~mort el gos, morta la ràbia~~/morta la cuca, mort el verí
 - ~~saharaui~~/sahrauí
 - bufador/~~soplet~~
-- 
+
+Frases fetes:
+- **cantar-les clares**: retreure els defectes
+- **fer escarafalls**: demostració exagerada de reprovació
+- **fer-ne de tots colors**: comportar-se malament
+- **dir les coses pel seu nom**: parlar sense embuts
+
+## La variació lingu´
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MTU0ODY5LDIxMjA1NzA4MzQsLTg5Mz
+eyJoaXN0b3J5IjpbMjAwMzMzNjQyLDIxMjA1NzA4MzQsLTg5Mz
 kxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1OTgsMzc1ODcyOTE0
 LC02NTI2Mjk4NjVdfQ==
 -->

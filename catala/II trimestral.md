@@ -6,6 +6,10 @@
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
 - Pujar nota: lèxic del futbol.
+
+## La poesia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTk5MjY4NzU3MiwzNzU4NzI5MTQsLTY1Mj
+YyOTg2NV19
 -->

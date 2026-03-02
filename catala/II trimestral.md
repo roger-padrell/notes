@@ -76,8 +76,10 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 
 ## Correcció
 ### Sinó / si no; quant a
-
+|Sinó|si no|
+|--|--|
+|conjunció adversativa, oposició, _però sí_|conj. condicional+adv. negació, condiciona|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjkwNzg5OSwtOTI2NjM3NTk4LDM3NT
-g3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbODU3OTY3NDI5LDE0NjI5MDc4OTksLTkyNj
+YzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

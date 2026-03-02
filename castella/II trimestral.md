@@ -77,18 +77,20 @@
 - no es feliz con su **vida conyugal** (se casa en 1829, con 20 años, y escribe _Casarse mal y pronto_)
 - encuentra una amante, Dolores Arujo (1831)
 - no està contento con la situación del país, entra en la política y logra ser diputado, pero las elecciones se invalidan por el motín de la _Granja de San Ildefonso_. ⇒ no puede hacer nada por su pais.
-- es abandonado por su amante en 1834, se distáncia de su mujer (Josefa), embarazada de su 2ª hija
+- es abandonado por su amante en 1834, se distancia de su mujer (Josefa), embarazada de su 2ª hija
 - se suicida en 1837, con 27 años, en esta situación
 
 ### Duque de Rivas (_Ángel de Saavedra_)
+- **TEATRO**
 - también sufre el asilio político
 - al regresar, incorpora novedades como:
 	- gusto por temas históricos
 	- descripciones costumbristas
 	- situaciones misteriosas o fatalidades
 - compone:
-	- _Romances históricos_
+	- _Romances históricos_: crónicas medievales, tradición oral (_Una antigualla de Sevilla_)
+	- _Don Álvaro o la fuerza del sino_ (1835): es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAyMjMwMDYsMTQ5ODk4NjQyMCwtMT
+eyJoaXN0b3J5IjpbLTE0MTE1OTk1OTQsMTQ5ODk4NjQyMCwtMT
 M0Njg1MDE0OCwtNjc3MjIwMTRdfQ==
 -->

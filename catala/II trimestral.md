@@ -14,8 +14,9 @@
 	_la melangiosa i freda claror de la **bola nocturna**_ ⇒ lluna
 	_la **terra** és **una cambra** on no penetra el vent_
 	- **Comparació**: presentació d'un fet real com a idèntic a un altre:
-	__
+	_tota la **meva vida** es lliga a **tu**, com en la nit **les flames** a **la fosca**_
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUxMTMwMjEsMzc1ODcyOTE0LC02NT
-I2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTcxMDY0MjQ5MSwzNzU4NzI5MTQsLTY1Mj
+YyOTg2NV19
 -->

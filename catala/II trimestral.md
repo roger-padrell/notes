@@ -63,9 +63,15 @@ A partir de la última vocal tònica...
 Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 
 ### Les composicions poètiques
-- **Corranda**: cançó popular curta, 4 versos - 7 síl·labes, rima creuada o encadenada
-- **Sonet**: 14 versos (44
+- **Corranda**: 
+	- cançó popular curta
+	- 4 versos - 7 síl·labes
+	- rima creuada o encadenada
+- **Sonet**: 
+	- 14 versos (4433) - 10/12 síl·labes
+	- rima encreuada o encadenada, i variada (en el cas dels tercets)
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0Njg1MTg2LC05MjY2Mzc1OTgsMzc1OD
-cyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbMTQ2Nzk5OTY2NCwtOTI2NjM3NTk4LDM3NT
+g3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

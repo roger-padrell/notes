@@ -12,9 +12,10 @@
 - **Recursos lèxics**: 
 	- **Metàfora**: fer servir una paraula que designa una cosa per substituïr una altra cosa semblant.
 	_la melangiosa i freda claror de la **bola nocturna**_ ⇒ lluna
-	_la terra és 
-	- asa
+	_la **terra** és **una cambra** on no penetra el vent_
+	- **Comparació**: presentació d'un fet real com a idèntic a un altre:
+	__
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTk0NzE5MywzNzU4NzI5MTQsLTY1Mj
-YyOTg2NV19
+eyJoaXN0b3J5IjpbLTIxMjUxMTMwMjEsMzc1ODcyOTE0LC02NT
+I2Mjk4NjVdfQ==
 -->

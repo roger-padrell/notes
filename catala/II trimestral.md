@@ -41,8 +41,10 @@
 		- _la blanca neu, la roja sang_
 
 ### Tipus de versos
+> Els versos es mesuren segons el nombre de **síl·labes** que es conten fins a la **última síl·laba tònica**.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4ODY3NjIwLDM3NTg3MjkxNCwtNjUyNj
-I5ODY1XX0=
+eyJoaXN0b3J5IjpbLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1Mj
+YyOTg2NV19
 -->

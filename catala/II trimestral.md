@@ -43,8 +43,9 @@
 ### Tipus de versos
 > Els versos es mesuren segons el nombre de **síl·labes** que es conten fins a la **última síl·laba tònica**.
 
-
+Fenòmens:
+- **Sinalefa**: enllaç entre l'última vocal d'una paraula i la inicial de la seguent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1Mj
-YyOTg2NV19
+eyJoaXN0b3J5IjpbNjg2MjIxNjkzLC05MjY2Mzc1OTgsMzc1OD
+cyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

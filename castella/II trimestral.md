@@ -79,7 +79,10 @@
 - no està contento con la situación del país, entra en la política y logra ser diputado, pero las elecciones se invalidan por el motín de la _Granja de San Ildefonso_. ⇒ no puede hacer nada por su pais.
 - es abandonado por su amante en 1834, se distáncia de su mujer (Josefa), embarazada de su 2ª hija
 - se suicida en 1837, con 27 años, en esta situación
+
+### Duque de Rivas (_Ángel de Saavedra_)
+- también sufre el asilio político
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczOTg2MDE5LDE0OTg5ODY0MjAsLTEzND
+eyJoaXN0b3J5IjpbNjMzMTM3NzA5LDE0OTg5ODY0MjAsLTEzND
 Y4NTAxNDgsLTY3NzIyMDE0XX0=
 -->

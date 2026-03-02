@@ -17,8 +17,9 @@
 		- _tota la **meva vida** es lliga a **tu**, com en la nit **les flames** a **la fosca**_
 	- **Metonímia**: designar una cosa amb el nom d'una altra amb la qual manté una relacio (continent-contingut, efecte-causa...)
 		- _vaig comprar un **Picasso**_ (escriptor ⇒ pintura/quadre)
-	- **Prosopopeia** o **personificació**:_
+	- **Prosopopeia** o **personificació**: atribuir qualitats humanes a animals, coses o conceptes.
+		- _com ploren els núvols_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODYwMzYxMSwzNzU4NzI5MTQsLTY1Mj
+eyJoaXN0b3J5IjpbLTExMTM5OTY2MywzNzU4NzI5MTQsLTY1Mj
 YyOTg2NV19
 -->

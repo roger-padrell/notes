@@ -34,8 +34,12 @@
 		- _enfront, movien, entre la fina boira, els verds pollancres les fulles_
 		- _amb les butxaques a les mans_
 	- **Asíndeton**: suppressió de conjuncions
-		- __
+		- _projectes, il·lusions, desigs prenen volada_
+	- **Polisíndeton**: repetició de conjuncions
+		- _van els infants i els amics i els promesos i els germans i la vella en sa capuia_
+	- **Epítet**: adjectiu amb qualitat inherent del nom
+		- _la blanca neu, la roja s_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNzYwNjEsMzc1ODcyOTE0LC02NTI2Mj
-k4NjVdfQ==
+eyJoaXN0b3J5IjpbNjgxMjAzODA1LDM3NTg3MjkxNCwtNjUyNj
+I5ODY1XX0=
 -->

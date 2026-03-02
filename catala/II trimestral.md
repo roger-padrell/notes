@@ -8,8 +8,10 @@
 - Pujar nota: lèxic del futbol.
 
 ## La poesia
-
+### Recursos literaris
+- **Recursos lèxics**: 
+	- **Metàfora**: fer servir una paraula que designa una cosa per substituïr una altra c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjY4NzU3MiwzNzU4NzI5MTQsLTY1Mj
-YyOTg2NV19
+eyJoaXN0b3J5IjpbLTE4Njg3ODYyNDcsMzc1ODcyOTE0LC02NT
+I2Mjk4NjVdfQ==
 -->

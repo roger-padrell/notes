@@ -85,8 +85,10 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 
 ## Vocabulari
 ### V4
-- Espa
+- ~~espaial~~/espacial
+- seitó/~~boqueró~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05Mj
-Y2Mzc1OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0Nj
+I5MDc4OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2
+NV19
 -->

@@ -38,8 +38,10 @@
 	- **Polisíndeton**: repetició de conjuncions
 		- _van els infants i els amics i els promesos i els germans i la vella en sa capuia_
 	- **Epítet**: adjectiu amb qualitat inherent del nom
-		- _la blanca neu, la roja s_
+		- _la blanca neu, la roja sang_
+
+### Tipus de ve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMjAzODA1LDM3NTg3MjkxNCwtNjUyNj
+eyJoaXN0b3J5IjpbLTc5NjcyNzczLDM3NTg3MjkxNCwtNjUyNj
 I5ODY1XX0=
 -->

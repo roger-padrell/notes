@@ -80,7 +80,11 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 |--|--|
 |conj. adversativa, **oposició**, _però sí_|conj. condicional+adv. negació, s'usa en **condicionals**|
 |no és de plata, **sinó** d'alumini|**si no calleu**, aturaran l'obra|
+---
+> L'expressió **en quant a** sempre és incorrecte, s'han d'utilitzar: _quant a, pel que fa a, respecte a, referent a, pel que respecta a, amb referència a, a propòsit de_
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA3MTIzMzEsMTQ2MjkwNzg5OSwtOT
-I2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbLTc1MjU0MzUzNSwxNDYyOTA3ODk5LC05Mj
+Y2Mzc1OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

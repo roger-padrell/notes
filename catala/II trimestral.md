@@ -21,8 +21,10 @@
 		- _com ploren els núvols_
 		- _el sol somreia_
 
-- **Recursos fònics**
+- **Recursos fònics**:
+	- **Al·literació**: repetició del mateix so en dos o més mots consecutius
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NDAzNTk5LDM3NTg3MjkxNCwtNjUyNj
-I5ODY1XX0=
+eyJoaXN0b3J5IjpbLTExNDE1ODA1NTUsMzc1ODcyOTE0LC02NT
+I2Mjk4NjVdfQ==
 -->

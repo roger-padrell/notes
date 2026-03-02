@@ -70,8 +70,10 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 - **Sonet**: 
 	- 14 versos (4433) - 10/12 síl·labes
 	- rima encreuada o encadenada, i variada (en el cas dels tercets)
-	- 
+- **Sextina**:
+	- 6 estrofes - 6 versos - 10 síl·labes
+	- última paraula d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Nzk5OTY2NCwtOTI2NjM3NTk4LDM3NT
+eyJoaXN0b3J5IjpbLTg1MjYyOTY4OSwtOTI2NjM3NTk4LDM3NT
 g3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

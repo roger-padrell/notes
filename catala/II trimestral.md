@@ -23,8 +23,9 @@
 
 - **Recursos fònics**:
 	- **Al·literació**: repetició del mateix so en dos o més mots consecutius
-		- 
+		- _En **P** eter **P** iper va collir un **p** edaç de **p** ebrots adobats_
+	- **Paranomàsia**: jod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE1ODA1NTUsMzc1ODcyOTE0LC02NT
+eyJoaXN0b3J5IjpbLTEzNTQ3NzIyNDEsMzc1ODcyOTE0LC02NT
 I2Mjk4NjVdfQ==
 -->

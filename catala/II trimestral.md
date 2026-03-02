@@ -1,7 +1,7 @@
 # Català II trimestral
 
 ## Que entra?
-- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i 108.
+- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística).
 - Unitat 5: pàg. 133 i 135.
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
@@ -97,9 +97,10 @@ Frases fetes:
 - **fer-ne de tots colors**: comportar-se malament
 - **dir les coses pel seu nom**: parlar sense embuts
 
-## La variació lingu´
+## La variació lingüística
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzMzNjQyLDIxMjA1NzA4MzQsLTg5Mz
-kxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1OTgsMzc1ODcyOTE0
-LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbMTM5NTU1NjExOCwyMTIwNTcwODM0LC04OT
+M5MTQxODYsMTQ2MjkwNzg5OSwtOTI2NjM3NTk4LDM3NTg3Mjkx
+NCwtNjUyNjI5ODY1XX0=
 -->

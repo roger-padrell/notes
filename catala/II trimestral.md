@@ -19,7 +19,10 @@
 		- _vaig comprar un **Picasso**_ (escriptor ⇒ pintura/quadre)
 	- **Prosopopeia** o **personificació**: atribuir qualitats humanes a animals, coses o conceptes.
 		- _com ploren els núvols_
+		- _el sol somreia_
+
+- **Recursos fònics**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM5OTY2MywzNzU4NzI5MTQsLTY1Mj
-YyOTg2NV19
+eyJoaXN0b3J5IjpbMzY0NDAzNTk5LDM3NTg3MjkxNCwtNjUyNj
+I5ODY1XX0=
 -->

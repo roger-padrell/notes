@@ -87,8 +87,12 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 ### V4
 - ~~espaial~~/espacial
 - seitó/~~boqueró~~
+- ~~mort el gos, morta la ràbia~~/morta la cuca, mort el verí
+- ~~saharaui~~/sahrauí
+- bufador/~~soplet~~
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0Nj
-I5MDc4OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2
-NV19
+eyJoaXN0b3J5IjpbODY3MTU0ODY5LDIxMjA1NzA4MzQsLTg5Mz
+kxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1OTgsMzc1ODcyOTE0
+LC02NTI2Mjk4NjVdfQ==
 -->

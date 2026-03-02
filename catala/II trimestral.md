@@ -31,8 +31,10 @@
 
 - **Recursos sintàctics**:
 	- **Hipèrbaton**: alterar l'ordre de la frase ![Yoda Jedi master | Star wars yoda, Star wars, Yoda](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fb6%2F13%2Faf%2Fb613af2238ee2bc74f0affd8a5bacd1e--yoda-quotes-star-wars-episodes.jpg&f=1&nofb=1&ipt=abda74614f64a53c669dd418ec8db9bde75f50a02b14c43d2931aa672820aa84 =100x)
-		- a
+		- _enfront, movien, entre la fina boira, els verds pollancres les fulles_
+		- _amb les butxaques a les mans_
+	- **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjEwNDU4MywzNzU4NzI5MTQsLTY1Mj
+eyJoaXN0b3J5IjpbMTkxOTI3MzI4MiwzNzU4NzI5MTQsLTY1Mj
 YyOTg2NV19
 -->

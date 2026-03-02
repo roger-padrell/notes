@@ -1,4 +1,4 @@
-	# Castellano II trimestral
+# Castellano II trimestral
 ## ¿Que entra en el examen?
 - [Complementos verbales (todos). pág 90, 91 y 92](#complementos-verbales)
 - [Clases de oraciones activas. pág 96 y 97](#clases-de-oraciones-activas)
@@ -75,5 +75,6 @@
 ### Mariano José de Larra
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY4NTAxNDgsLTY3NzIyMDE0XX0=
+eyJoaXN0b3J5IjpbMTQ5ODk4NjQyMCwtMTM0Njg1MDE0OCwtNj
+c3MjIwMTRdfQ==
 -->

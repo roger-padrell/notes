@@ -26,8 +26,12 @@
 		- _En **P** eter **P** iper va collir un **p** edaç de **p** ebrots adobats_
 	- **Paranomàsia**: joc de paraules amb mots que només es distingeixen en algun fonema:
 		- _Per mal **argent**, cruel, **urgent**_
-	- **Anàfora**: repetició d'una o més 
+	- **Anàfora**: repetició d'una o més paraules a l'inic:
+		- _podries ser blanc, podries ser negre_
+
+- **Recursos sintàctics**:
+	- **Hipèrbaton**: alterar l'ordre de la frase 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIyODk2OTcsMzc1ODcyOTE0LC02NT
+eyJoaXN0b3J5IjpbLTExMTU3MDgyMTEsMzc1ODcyOTE0LC02NT
 I2Mjk4NjVdfQ==
 -->

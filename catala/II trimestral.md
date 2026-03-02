@@ -45,10 +45,14 @@
 
 Fenòmens:
 - **Sinalefa**: enllaç entre l'última vocal d'una paraula i la inicial de la seguent, pero mantenen sons separats en una sola síl·laba
-	- _a **cada_instant**, i en els segles em moc_ ⇒ _a-ca-dains-tant_
+	- _a **cada_instant**, i en els segles em moc_ ⇒ _a-ca-**dains**-tant_
 - **El·lisió**: fusió en una sola síl·laba i só de dues vocals
-	- _**Vora_el** barranc_ ⇒ _vo-ral-ba-rranc_
+	- _**Vora_el** barranc_ ⇒ _vo-**ral**-ba-rranc_
+- **Hiat**: pronunció separada de dues vocals en contacte
+	- _car no és més **que-apetit** brutal_ ⇒ _car-no-és-més-que-a-pe-tit-bru-tal_
+
+Es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMDU3MTYsLTkyNjYzNzU5OCwzNzU4Nz
-I5MTQsLTY1MjYyOTg2NV19
+eyJoaXN0b3J5IjpbLTcwNjI3NjAxMCwtOTI2NjM3NTk4LDM3NT
+g3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

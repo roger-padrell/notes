@@ -51,8 +51,9 @@ Fenòmens:
 - **Hiat**: pronunció separada de dues vocals en contacte
 	- _car no és més **que-apetit** brutal_ ⇒ _car-no-és-més-que-a-pe-tit-bru-tal_
 
-Es
+Es classifiquen en:
+- **Art menor**: >=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjI3NjAxMCwtOTI2NjM3NTk4LDM3NT
-g3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbLTIwODEyNDg5NDgsLTkyNjYzNzU5OCwzNz
+U4NzI5MTQsLTY1MjYyOTg2NV19
 -->

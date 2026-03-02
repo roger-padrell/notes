@@ -1,7 +1,7 @@
 # Català II trimestral
 
 ## Que entra?
-- Unitat 4: pàg. [92, 93, 94](#la-poesia), 104, 106 i 108.
+- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó-si-no;-quant-a), 106 i 108.
 - Unitat 5: pàg. 133 i 135.
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
@@ -72,8 +72,11 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 	- rima encreuada o encadenada, i variada (en el cas dels tercets)
 - **Sextina**:
 	- 6 estrofes - 6 versos - 10 síl·labes
-	- última paraula d
+	- última paraula de cada vers de la primera estrofa (principal) es repeteix en les altres 5 estrofes.
+
+## Correcció
+### Sinó / si no; quant a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjYyOTY4OSwtOTI2NjM3NTk4LDM3NT
+eyJoaXN0b3J5IjpbMTIyOTA4MTg1MywtOTI2NjM3NTk4LDM3NT
 g3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

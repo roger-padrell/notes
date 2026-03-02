@@ -55,10 +55,13 @@ Es classifiquen en:
 - **Art menor**: ≤ 8 síl·labes, representat amb lletra minúscula
 - **Art major**: ≥ 9 síl·labes, representat amb lletra majúscula
 
-Rima:
-- **assonant**: només coincideixen sons vocàlics
-- **consonant**: coincideixen vocals i c
+**Rima:**
+A partir de la última vocal tònica...
+- **assonant**: ...només coincideixen sons vocàlics
+- **consonant**: ...coincideixen vocals i consonàntics
+
+Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MDc2OTYzLC05MjY2Mzc1OTgsMzc1OD
-cyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTcyNjUzMTU1MCwtOTI2NjM3NTk4LDM3NT
+g3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

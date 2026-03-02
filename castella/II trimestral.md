@@ -53,6 +53,7 @@
 
 ## Romanticismo
 ### Gustavo Adolfo Béquer _(1836-1870)_
+- **LÍRICA y PROSA**
 - Diversas publicaciones, vida precària
 - **Las _Rimas_**: 
 	- poemas líricos
@@ -65,6 +66,7 @@
 - muere de tuberculosi a los 34 pobre y desconocido, ahora es de los más grandes de la história
 
 ### José de Espronceda _(1808-1842)_
+- **LÍRICA**
 - de izquierdas, activo políticamente, llegó a ser diputado
 - mezcla géneros y esquemas métricos
 - Transmite:
@@ -80,7 +82,11 @@
 - no està contento con la situación del país, entra en la política y logra ser diputado, pero las elecciones se invalidan por el motín de la _Granja de San Ildefonso_. ⇒ no puede hacer nada por su pais.
 - es abandonado por su amante en 1834, se distancia de su mujer (Josefa), embarazada de su 2ª hija
 - se suicida en 1837, con 27 años, en esta situación
-- obras de estilo periodístico
+- estilo:
+	- periodístico, claro y directo. 
+	- uso de la ironía
+	- léxico sencillo
+	- tono evoluciona a amargo y pesimista
 
 ### Duque de Rivas (_Ángel de Saavedra_)
 - **TEATRO**
@@ -93,6 +99,6 @@
 	- _Romances históricos_: crónicas medievales, tradición oral (_Una antigualla de Sevilla_)
 	- _Don Álvaro o la fuerza del sino_ (1835): escrita en prosa y verso, concentra los ingredientes formales y temáticos del drama romántico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NTc1Mzk4LDE0OTg5ODY0MjAsLTEzND
-Y4NTAxNDgsLTY3NzIyMDE0XX0=
+eyJoaXN0b3J5IjpbLTE2ODk1MzUxNDUsMTQ5ODk4NjQyMCwtMT
+M0Njg1MDE0OCwtNjc3MjIwMTRdfQ==
 -->

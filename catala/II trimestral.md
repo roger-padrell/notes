@@ -10,8 +10,11 @@
 ## La poesia
 ### Recursos literaris
 - **Recursos lèxics**: 
-	- **Metàfora**: fer servir una paraula que designa una cosa per substituïr una altra c
+	- **Metàfora**: fer servir una paraula que designa una cosa per substituïr una altra cosa semblant.
+	_la melangiosa i freda claror de la **bola nocturna**_ ⇒ lluna
+	_la terra és 
+	- asa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg3ODYyNDcsMzc1ODcyOTE0LC02NT
-I2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbMTc5NTk0NzE5MywzNzU4NzI5MTQsLTY1Mj
+YyOTg2NV19
 -->

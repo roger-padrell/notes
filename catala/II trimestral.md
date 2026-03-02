@@ -15,8 +15,10 @@
 		- _la **terra** és **una cambra** on no penetra el vent_
 	- **Comparació**: presentació d'un fet real com a idèntic a un altre:
 		- _tota la **meva vida** es lliga a **tu**, com en la nit **les flames** a **la fosca**_
-	- **Metonímia**: designar una cosa amb el nom d'una altra amb la qual manté una relaci
+	- **Metonímia**: designar una cosa amb el nom d'una altra amb la qual manté una relacio (continent-contingut, efecte-causa...)
+		- _vaig comprar un **Picasso**_ (escriptor ⇒ pintura/quadre)
+	- **Prosopopeia** o **personificació**:_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTQ5MDEyLDM3NTg3MjkxNCwtNjUyNj
-I5ODY1XX0=
+eyJoaXN0b3J5IjpbMTAwODYwMzYxMSwzNzU4NzI5MTQsLTY1Mj
+YyOTg2NV19
 -->

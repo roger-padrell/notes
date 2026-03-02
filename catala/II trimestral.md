@@ -1,7 +1,7 @@
 # Català II trimestral
 
 ## Que entra?
-- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), 106 i 108.
+- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i 108.
 - Unitat 5: pàg. 133 i 135.
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
@@ -83,8 +83,10 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 ---
 > L'expressió **en quant a** sempre és incorrecte, s'han d'utilitzar: _quant a, pel que fa a, respecte a, referent a, pel que respecta a, amb referència a, a propòsit de_
 
-
+## Vocabulari
+### V4
+- Espa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjU0MzUzNSwxNDYyOTA3ODk5LC05Mj
+eyJoaXN0b3J5IjpbLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05Mj
 Y2Mzc1OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

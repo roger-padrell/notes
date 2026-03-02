@@ -78,8 +78,9 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 ### Sinó / si no; quant a
 |Sinó|si no|
 |--|--|
-|conjunció adversativa, oposició, _però sí_|conj. condicional+adv. negació, condiciona|
+|conj. adversativa, **oposició**, _però sí_|conj. condicional+adv. negació, s'usa en **condicionals**|
+|no és de plata, **sinó** d'alumini|**si no calleu**, aturaran l'obra|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3OTY3NDI5LDE0NjI5MDc4OTksLTkyNj
-YzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
+eyJoaXN0b3J5IjpbLTE1OTA3MTIzMzEsMTQ2MjkwNzg5OSwtOT
+I2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

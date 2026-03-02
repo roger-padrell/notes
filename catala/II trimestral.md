@@ -1,7 +1,7 @@
 # Català II trimestral
 
 ## Que entra?
-- Unitat 4: pàg. [92, 93](#la-poesia), 94, 104, 106 i 108.
+- Unitat 4: pàg. [92, 93, 94](#la-poesia), 104, 106 i 108.
 - Unitat 5: pàg. 133 i 135.
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
@@ -61,7 +61,11 @@ A partir de la última vocal tònica...
 - **consonant**: ...coincideixen vocals i consonàntics
 
 Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
+
+### Les composicions poètiques
+- **Corranda**: cançó popular curta, 4 versos - 7 síl·labes, rima creuada o encadenada
+- **Sonet**: 14 versos (44
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjUzMTU1MCwtOTI2NjM3NTk4LDM3NT
-g3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbNjQ0Njg1MTg2LC05MjY2Mzc1OTgsMzc1OD
+cyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

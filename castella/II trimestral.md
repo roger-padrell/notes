@@ -73,8 +73,9 @@
 - murió de difteria a los 34 años
 
 ### Mariano José de Larra
-
+- nace en una **familia acomodada** y exiliada (Fernando VII, absolutista, invalida la constitución de 1812)
+- no es felix con su **vida conyugal** (se casa en 1829, con 20 años, y escribe _Casarse mal y )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODk4NjQyMCwtMTM0Njg1MDE0OCwtNj
-c3MjIwMTRdfQ==
+eyJoaXN0b3J5IjpbMjA3MDkxOTA4LDE0OTg5ODY0MjAsLTEzND
+Y4NTAxNDgsLTY3NzIyMDE0XX0=
 -->

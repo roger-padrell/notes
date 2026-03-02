@@ -82,7 +82,13 @@
 
 ### Duque de Rivas (_Ángel de Saavedra_)
 - también sufre el asilio político
+- al regresar, incorpora novedades como:
+	- gusto por temas históricos
+	- descripciones costumbristas
+	- situaciones misteriosas o fatalidades
+- compone:
+	- _Romances históricos_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMTM3NzA5LDE0OTg5ODY0MjAsLTEzND
-Y4NTAxNDgsLTY3NzIyMDE0XX0=
+eyJoaXN0b3J5IjpbLTE3ODAyMjMwMDYsMTQ5ODk4NjQyMCwtMT
+M0Njg1MDE0OCwtNjc3MjIwMTRdfQ==
 -->

@@ -4,7 +4,7 @@
 - Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
 - Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
 - [Sintaxi: subordinades substantives (tots els tipus)](#oracions-subordinades-substantives )
-- Literatura: pàg. 56, 57, 58, 80 i 81.
+- Literatura: pàg. [56, 57](#josep-carner), 58, 80 i 81.
 - [Pujar nota: *lèxic* del futbol.](#bonus-vocabulari-futbol)
 
 ## La poesia
@@ -167,9 +167,26 @@ Frases fetes:
 - ~~Delantero~~: davanter
 - ~~Pase~~: passada
 - ~~Red~~: xarxa
+
+## Literatura
+### Josep Carner
+
+### Carles Riba
+- **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
+- Va ser elegit el **1932** membre de l'_Institut d'Estudis Catalans_ (**IEC**) on va col·laborar per fer el diccionari amb Pompeu Fabra.
+- És un dels autors més importants de la _postguerra_ i el s. XX
+- Va traduir clàssics com Homer, Èsquil, Virgili i escriptors del s. XX com Kafka (_metamorfosi_), Edgar Allan Poe, Karafis.
+- Les seves influències van començar sent **modernistes** (Joan Maragall) però després es va decantar per l'estil **noucentista**.
+
+#### Obra
+- _Bucòliques_: èglogues (poesies que provenen del llatí. Els protagonistes són pastors que canten o reciten en un paisatge *locus amoenus*, un lloc agradable, pertorbat per canvis polítics o passions amoroses).
+- _Estances_: temàtica amorosa i autoconeixement
+- _Elegies de Bierville_: les va escriure exiliat a Bierville
+- _Del joc i del foc_: introdueix la TANKA, estrofa d'origen japonès de 5 versos.
+- _Salvatge cos_: és un llibre de sonets on fa una reflexió basada en la seva experiència en què analitza la relació amorosa (carnal) i l'amor a Déu.
+- També va escriure obres per a infants (_Les aventures d'en Perot Marroquí_, _Sis Joans_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ3NzIyNzAsLTQzMzk2NzIzNywxMz
-k1NTU2MTE4LDIxMjA1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3
-ODk5LC05MjY2Mzc1OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTYwNjU4MzY0MSwtNDMzOTY3MjM3LDEzOT
+U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
+OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

@@ -174,8 +174,9 @@ Frases fetes:
 - treballa a l'IEC, més tard de diplomàtic, i finalment de professor universitari
 
 ### Obra
-- **Etapa noucentista**
-- **Eta**
+- **Etapa noucentista**: models estètics del Noucentisme
+	- _Els fruits saborosos_: 18 poemes protagonitzats per fruits que reflexionen sobre el pas del temps (infantesa-maduresa-vellesa)
+- **Etapa simbolista**: posició més humana
 
 ### Carles Riba
 - **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
@@ -221,7 +222,7 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjczMTkzNiwxNjg3NTA4ODE5LDExNz
+eyJoaXN0b3J5IjpbMTcyNTYzNDIyOSwxNjg3NTA4ODE5LDExNz
 MwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOTU1NTYx
 MTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLT
 kyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19

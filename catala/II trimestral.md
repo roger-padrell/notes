@@ -2,7 +2,7 @@
 
 ## Que entra?
 - Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
-- Unitat 5: pàg. 133 i 135.
+- Unitat 5: pàg. 133 i [135](#v5).
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
 - Pujar nota: *lèxic* del futbol.
@@ -97,6 +97,9 @@ Frases fetes:
 - **fer-ne de tots colors**: comportar-se malament
 - **dir les coses pel seu nom**: parlar sense embuts
 
+### V5
+
+
 ## La variació lingüística [*](#que-entra)
 - _Segons el grup social_:
 	- **Varietats històriques o diacròniques**
@@ -110,7 +113,7 @@ Frases fetes:
 		- **Registre col·loquial**
 		- **Registre vulgar**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4OTQ0MTg5LDEzOTU1NTYxMTgsMjEyMD
+eyJoaXN0b3J5IjpbNDc2MDk1NzI4LDEzOTU1NTYxMTgsMjEyMD
 U3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLTkyNjYzNzU5
 OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

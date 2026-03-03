@@ -170,7 +170,7 @@ Frases fetes:
 
 ## Literatura
 ### Josep Carner
-
+- 
 
 ### Carles Riba
 - **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
@@ -216,8 +216,8 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzUwODgxOSwxMTczMDY1MTI1LDE2OD
-c1MDg4MTksLTQzMzk2NzIzNywxMzk1NTU2MTE4LDIxMjA1NzA4
-MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1OTgsMz
-c1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbMTIwODAwNzQyLDE2ODc1MDg4MTksMTE3Mz
+A2NTEyNSwxNjg3NTA4ODE5LC00MzM5NjcyMzcsMTM5NTU1NjEx
+OCwyMTIwNTcwODM0LC04OTM5MTQxODYsMTQ2MjkwNzg5OSwtOT
+I2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

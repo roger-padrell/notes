@@ -1,7 +1,7 @@
 # Català II trimestral
 
 ## Que entra?
-- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística).
+- Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
 - Unitat 5: pàg. 133 i 135.
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
@@ -98,9 +98,10 @@ Frases fetes:
 - **dir les coses pel seu nom**: parlar sense embuts
 
 ## La variació lingüística [*](#que-entra)
- 
+- _Segons el grup social_:
+	- **Var**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk3MTI5MzgsMTM5NTU1NjExOCwyMT
-IwNTcwODM0LC04OTM5MTQxODYsMTQ2MjkwNzg5OSwtOTI2NjM3
-NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbMTE5MDI2MjEwNSwxMzk1NTU2MTE4LDIxMj
+A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
+OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

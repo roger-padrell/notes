@@ -175,9 +175,15 @@ Frases fetes:
 
 ### Obra
 - **Etapa noucentista**: models estètics del Noucentisme
-	- _Els fruits saborosos_: 18 poemes protagonitzats per fruits que reflexionen sobre el pas del temps (infantesa-maduresa-vellesa)
+	- _Els fruits saborosos_: 18 poemes protagonitzats per fruits que reflexionen sobre el pas del temps (infantesa-maduresa-vellesa). Usa versos alexandrins (14 síl·labes) i noms de personatges grecs.
+	- _La paraiña en el vent_
+	- _Auques i ventalls_
+	- _La inútil ofrena_
 - **Etapa simbolista**: posició més humana
+	- _El cor quiet_
+	- _Nabí_
 
+---
 ### Carles Riba
 - **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
 - Va ser elegit el **1932** membre de l'_Institut d'Estudis Catalans_ (**IEC**) on va col·laborar per fer el diccionari amb Pompeu Fabra.
@@ -192,14 +198,14 @@ Frases fetes:
 - _Del joc i del foc_: introdueix la TANKA, estrofa d'origen japonès de 5 versos.
 - _Salvatge cos_: és un llibre de sonets on fa una reflexió basada en la seva experiència en què analitza la relació amorosa (carnal) i l'amor a Déu.
 - També va escriure obres per a infants (_Les aventures d'en Perot Marroquí_, _Sis Joans_)
-
+---
 ### Avantguardisme
 Avantguardes:
 - **Futurisme**: trencament amb l'ordre imperant en el passat, _paraules en llibertat_, _imaginació sense fils_, desordre de sintaxi, trencament de versos, absència de puntuació i majúscules.
 - **Surrealisme**: alliberació de l'individu, importància en  els somnis, _escriptura automàtica_.
 - **Cubisme**: mètodes científics per canviar l'aspecte de la realitat.
 - **Dadaisme**: objectiu crear caos intel·lectual com a reflex de la societat caótica.
-
+---
 ### Joan Salvat-Papasseit
 - Figura més notable de l'Avantguardisme català
 - Família humil, orfe de pare als set anys, va a viure a l'Asilo Naval Español fins als 12 anys
@@ -222,7 +228,7 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTYzNDIyOSwxNjg3NTA4ODE5LDExNz
+eyJoaXN0b3J5IjpbLTk3NDY0NTQ4OSwxNjg3NTA4ODE5LDExNz
 MwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOTU1NTYx
 MTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLT
 kyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19

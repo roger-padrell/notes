@@ -200,6 +200,16 @@ Frases fetes:
 - També va escriure obres per a infants (_Les aventures d'en Perot Marroquí_, _Sis Joans_)
 ---
 ### Avantguardisme
+Context històric:
+- 1a i 2a guerra mundial
+- Dictadura Primo de Rivera
+- Guerra civil
+- Franquisme
+
+Característiques:
+- Estil d'artistes europeus
+- Objectiu: modernització i consolidació de la llengua
+
 Avantguardes:
 - **Futurisme**: trencament amb l'ordre imperant en el passat, _paraules en llibertat_, _imaginació sense fils_, desordre de sintaxi, trencament de versos, absència de puntuació i majúscules.
 - **Surrealisme**: alliberació de l'individu, importància en  els somnis, _escriptura automàtica_.
@@ -228,7 +238,7 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDY0NTQ4OSwxNjg3NTA4ODE5LDExNz
+eyJoaXN0b3J5IjpbLTk4MjQyMjgzNiwxNjg3NTA4ODE5LDExNz
 MwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOTU1NTYx
 MTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLT
 kyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19

@@ -162,9 +162,14 @@ Frases fetes:
 - ~~Regat~~: driblatge
 - ~~Zancadilla~~: traveta
 - ~~Larguero~~: travesser
-- 
+- ~~Despeje~~: rebuig
+- ~~Patada~~: puntada de peu
+- ~~Delantero~~: davanter
+- ~~Pase~~: passada
+- ~~Red~~: xarxa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjUwNzE0MSwtNDMzOTY3MjM3LDEzOT
-U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
-OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
+eyJoaXN0b3J5IjpbLTEyODQ3NzIyNzAsLTQzMzk2NzIzNywxMz
+k1NTU2MTE4LDIxMjA1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3
+ODk5LC05MjY2Mzc1OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ
+==
 -->

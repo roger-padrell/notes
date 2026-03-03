@@ -83,8 +83,31 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 ---
 > L'expressió **en quant a** sempre és incorrecte, s'han d'utilitzar: _quant a, pel que fa a, respecte a, referent a, pel que respecta a, amb referència a, a propòsit de_
 
+### Per/per a; a mida/a mesura que; mentre/mentre que/mentrestant
+**Per/per a**
+|per|per a|
+|--|--|
+|motiu, causa, mitjà, manera, agent|finalitat, destinació, destinatari, temps|
+
+> Davant d'infinitiu es pot fer servir semptre _per_
+
+<br><br>
+**A mida/a mesura que**
+|a mida|a mesura que|
+|--|--|
+|_amb les dimensions ajustades a l'ús a què està destinat_|_com més_|
+|**mida, amidar**: mesura lineal|**mesura, mesurar**: comparació de quantitat a unitat|
+
+<br><br>
+**Mentre/mentre que/mentrestant**
+|mentre|mentre que|mentrestant|
+|--|--|--|
+|acció simultània al verb principal|contraposició entre accions|fa referència al temps en què s'esdevé una cosa|
+|_mentre envernisso la calaixera, escoltaré la ràdio_|_tu fas tota la feina mentre que ell no col·labora en res_|_que has fet tu mentrestant?_|
+
 ## Vocabulari [*](#que-entra)
 ### V4
+Paraules o expressions correctes:
 - ~~espaial~~/espacial
 - seitó/~~boqueró~~
 - ~~mort el gos, morta la ràbia~~/morta la cuca, mort el verí
@@ -98,6 +121,18 @@ Frases fetes:
 - **dir les coses pel seu nom**: parlar sense embuts
 
 ### V5
+Paraules o expressions correctes:
+- ~~quant abans millor~~ / **com més aviat millor** 
+- raigs ~~ultravioletes~~/**ultraviolats** 
+- **vertigen**/~~vèrtig~~ 
+- ~~bactèria~~/**bacteri** 
+- ~~averiguar~~/**esbrinar**
+
+Frases fetes:
+- **perdre l’esma** ⇒  descoratjar-se
+- **ser de la màniga ampla** ⇒ ser tolerant
+- **pesar figues** ⇒ endormiscar-se
+- **fer el paper de met** ⇒ fer com qui no s'adona de res
 
 
 ## La variació lingüística [*](#que-entra)
@@ -113,7 +148,7 @@ Frases fetes:
 		- **Registre col·loquial**
 		- **Registre vulgar**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MDk1NzI4LDEzOTU1NTYxMTgsMjEyMD
-U3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLTkyNjYzNzU5
-OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
+eyJoaXN0b3J5IjpbMTk5OTQ0OTY2OCwxMzk1NTU2MTE4LDIxMj
+A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
+OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

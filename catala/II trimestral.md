@@ -170,7 +170,12 @@ Frases fetes:
 
 ## Literatura
 ### Josep Carner
-- 
+- familia d'intel·lectuals
+- treballa a l'IEC, més tard de diplomàtic, i finalment de professor universitari
+
+### Obra
+- **Etapa noucentista**
+- **Eta**
 
 ### Carles Riba
 - **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
@@ -216,8 +221,8 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODAwNzQyLDE2ODc1MDg4MTksMTE3Mz
-A2NTEyNSwxNjg3NTA4ODE5LC00MzM5NjcyMzcsMTM5NTU1NjEx
-OCwyMTIwNTcwODM0LC04OTM5MTQxODYsMTQ2MjkwNzg5OSwtOT
-I2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbMTEzNjczMTkzNiwxNjg3NTA4ODE5LDExNz
+MwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOTU1NTYx
+MTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLT
+kyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

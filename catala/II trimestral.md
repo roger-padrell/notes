@@ -4,7 +4,7 @@
 - Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
 - Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
 - [Sintaxi: subordinades substantives (tots els tipus)](#oracions-subordinades-substantives )
-- Literatura: pàg. [56, 57](#josep-carner), [58](#carles-riba), [80](#avantguardisme) i 81.
+- Literatura: pàg. [56, 57](#josep-carner), [58](#carles-riba), [80](#avantguardisme) i [81](#joan-salvat-papasseit).
 - [Pujar nota: *lèxic* del futbol.](#bonus-vocabulari-futbol)
 
 ## La poesia
@@ -171,6 +171,7 @@ Frases fetes:
 ## Literatura
 ### Josep Carner
 
+
 ### Carles Riba
 - **Virgili** va ser un autor llatí (poeta), la seva obra més coneguda és l'_Eneida_.
 - Va ser elegit el **1932** membre de l'_Institut d'Estudis Catalans_ (**IEC**) on va col·laborar per fer el diccionari amb Pompeu Fabra.
@@ -193,7 +194,7 @@ Avantguardes:
 - **Cubisme**: mètodes científics per canviar l'aspecte de la realitat.
 - **Dadaisme**: objectiu crear caos intel·lectual com a reflex de la societat caótica.
 
-### Joan Salvat-Papasseit (_1894-1924_)
+### Joan Salvat-Papasseit
 - Figura més notable de l'Avantguardisme català
 - Família humil, orfe de pare als set anys, va a viure a l'Asilo Naval Español fins als 12 anys
 - Comença a treballar, inicia la lectura de Gorki, Nietzche i Ibsen.
@@ -215,7 +216,7 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODc4NzA2OCwtNDMzOTY3MjM3LDEzOT
+eyJoaXN0b3J5IjpbMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOT
 U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
 OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

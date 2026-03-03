@@ -7,7 +7,7 @@
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
 - Pujar nota: *lèxic* del futbol.
 
-## La poesia
+## La poesia [*](#que-entra)
 ### Recursos literaris
 - **Recursos lèxics**: 
 	- **Metàfora**: fer servir una paraula que designa una cosa per substituïr una altra cosa semblant.
@@ -74,7 +74,7 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 	- 6 estrofes - 6 versos - 10 síl·labes
 	- última paraula de cada vers de la primera estrofa (principal) es repeteix en les altres 5 estrofes.
 
-## Correcció
+## Correcció [*](#que-entra)
 ### Sinó / si no; quant a
 |Sinó|si no|
 |--|--|
@@ -83,7 +83,7 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 ---
 > L'expressió **en quant a** sempre és incorrecte, s'han d'utilitzar: _quant a, pel que fa a, respecte a, referent a, pel que respecta a, amb referència a, a propòsit de_
 
-## Vocabulari
+## Vocabulari [*](#que-entra)
 ### V4
 - ~~espaial~~/espacial
 - seitó/~~boqueró~~
@@ -97,10 +97,10 @@ Frases fetes:
 - **fer-ne de tots colors**: comportar-se malament
 - **dir les coses pel seu nom**: parlar sense embuts
 
-## La variació lingüística
-
+## La variació lingüística [*](#que-entra)
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTU1NjExOCwyMTIwNTcwODM0LC04OT
-M5MTQxODYsMTQ2MjkwNzg5OSwtOTI2NjM3NTk4LDM3NTg3Mjkx
-NCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbLTE0ODk3MTI5MzgsMTM5NTU1NjExOCwyMT
+IwNTcwODM0LC04OTM5MTQxODYsMTQ2MjkwNzg5OSwtOTI2NjM3
+NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

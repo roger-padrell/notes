@@ -3,7 +3,7 @@
 ## Que entra?
 - Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
 - Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
-- Sintaxi: subordinades substantives (tots els tipus)
+- [Sintaxi: subordinades substantives (tots els tipus)](#oracions-subordinades-substantives )
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
 - Pujar nota: *lèxic* del futbol.
 
@@ -145,8 +145,18 @@ Frases fetes:
 	- **Varietats informals**
 		- **Registre col·loquial**
 		- **Registre vulgar**
+
+## Oracions subordinades substantives
+|Tipus|Estructura|Funcions|
+|--|--|--|
+|Completives|que + proposició, si + proposició|Subj, CD, Atr, CRV, CN, CAdj, Cadv, CC
+|D'infinitiu|(de) + infinitiu|Subj, CD, Atr, CRV, CN, CAdj, CAdv|
+|Interrogatives indirectes|(què, qui, quin, quant, quan, on, com) + proposició|CD, Subj|
+|De relatiu|(qui, que, on) + proposició|Subj, CD, CI, Atr, CRV, CAg, CC, CN, CAdj, CPred|
+> Els de relatiu no es poden substituïr per "el qual", "la qual"...
+> utilitzen normalment una preposició o un determinant, i no tenen antecedent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODA4ODIxNSwxMzk1NTU2MTE4LDIxMj
-A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
-OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTExMTAyMTY2NzgsMTM5NTU1NjExOCwyMT
+IwNTcwODM0LC04OTM5MTQxODYsMTQ2MjkwNzg5OSwtOTI2NjM3
+NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
 -->

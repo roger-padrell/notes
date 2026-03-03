@@ -162,9 +162,9 @@ Frases fetes:
 - ~~Regat~~: driblatge
 - ~~Zancadilla~~: traveta
 - ~~Larguero~~: travesser
-- ~~strikethrough text~~
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTc1OTE1LC00MzM5NjcyMzcsMTM5NT
-U1NjExOCwyMTIwNTcwODM0LC04OTM5MTQxODYsMTQ2MjkwNzg5
-OSwtOTI2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5ODY1XX0=
+eyJoaXN0b3J5IjpbMTE3MjUwNzE0MSwtNDMzOTY3MjM3LDEzOT
+U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
+OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

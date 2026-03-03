@@ -208,7 +208,7 @@ Context històric:
 
 Característiques:
 - Estil d'artistes europeus
-- Objectiu: modernització i consolidació de la llengua
+- Objectiu: modernització i consolidació de la llengua (noucentisme)
 
 Avantguardes:
 - **Futurisme**: trencament amb l'ordre imperant en el passat, _paraules en llibertat_, _imaginació sense fils_, desordre de sintaxi, trencament de versos, absència de puntuació i majúscules.
@@ -238,7 +238,7 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjQyMjgzNiwxNjg3NTA4ODE5LDExNz
+eyJoaXN0b3J5IjpbMjA4MjIwNjIwMSwxNjg3NTA4ODE5LDExNz
 MwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOTU1NTYx
 MTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLT
 kyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19

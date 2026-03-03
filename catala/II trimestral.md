@@ -5,7 +5,7 @@
 - Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
 - [Sintaxi: subordinades substantives (tots els tipus)](#oracions-subordinades-substantives )
 - Literatura: pàg. 56, 57, 58, 80 i 81.
-- Pujar nota: *lèxic* del futbol.
+- [Pujar nota: *lèxic* del futbol.](#bonus:-vocabulari-futbol)
 
 ## La poesia [*](#que-entra)
 ### Recursos literaris
@@ -155,8 +155,11 @@ Frases fetes:
 |De relatiu|(qui, que, on) + proposició|Subj, CD, CI, Atr, CRV, CAg, CC, CN, CAdj, CPred|
 > Els de relatiu no es poden substituïr per "el qual", "la qual"...
 > utilitzen normalment una preposició o un determinant, i no tenen antecedent.
+
+## Bonus: vocabulari futbol
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzk2NzIzNywxMzk1NTU2MTE4LDIxMj
-A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
-OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTcwMTM4NTcwOSwtNDMzOTY3MjM3LDEzOT
+U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
+OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

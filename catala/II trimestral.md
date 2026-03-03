@@ -2,7 +2,7 @@
 
 ## Que entra?
 - Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
-- Unitat 5: pàg. 133 i [135](#v5).
+- Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
 - Sintaxi: subordinades substantives (tots els tipus)
 - Literatura: pàg. pàg. 56, 57, 58, 80 i 81.
 - Pujar nota: *lèxic* del futbol.
@@ -90,15 +90,13 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 |motiu, causa, mitjà, manera, agent|finalitat, destinació, destinatari, temps|
 
 > Davant d'infinitiu es pot fer servir semptre _per_
-
-<br><br>
+---
 **A mida/a mesura que**
 |a mida|a mesura que|
 |--|--|
 |_amb les dimensions ajustades a l'ús a què està destinat_|_com més_|
 |**mida, amidar**: mesura lineal|**mesura, mesurar**: comparació de quantitat a unitat|
-
-<br><br>
+---
 **Mentre/mentre que/mentrestant**
 |mentre|mentre que|mentrestant|
 |--|--|--|
@@ -148,7 +146,7 @@ Frases fetes:
 		- **Registre col·loquial**
 		- **Registre vulgar**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTQ0OTY2OCwxMzk1NTU2MTE4LDIxMj
+eyJoaXN0b3J5IjpbLTc4ODA4ODIxNSwxMzk1NTU2MTE4LDIxMj
 A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
 OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

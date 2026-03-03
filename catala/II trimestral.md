@@ -5,9 +5,9 @@
 - Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
 - [Sintaxi: subordinades substantives (tots els tipus)](#oracions-subordinades-substantives )
 - Literatura: pàg. 56, 57, 58, 80 i 81.
-- [Pujar nota: *lèxic* del futbol.](#bonus:-vocabulari-futbol)
+- [Pujar nota: *lèxic* del futbol.](#bonus-vocabulari-futbol)
 
-## La poesia [*](#que-entra)
+## La poesia
 ### Recursos literaris
 - **Recursos lèxics**: 
 	- **Metàfora**: fer servir una paraula que designa una cosa per substituïr una altra cosa semblant.
@@ -74,7 +74,7 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 	- 6 estrofes - 6 versos - 10 síl·labes
 	- última paraula de cada vers de la primera estrofa (principal) es repeteix en les altres 5 estrofes.
 
-## Correcció [*](#que-entra)
+## Correcció
 ### Sinó / si no; quant a
 |Sinó|si no|
 |--|--|
@@ -103,7 +103,7 @@ Els **versos lliures** o **blancs** no coincideixen amb res, no rimen.
 |acció simultània al verb principal|contraposició entre accions|fa referència al temps en què s'esdevé una cosa|
 |_mentre envernisso la calaixera, escoltaré la ràdio_|_tu fas tota la feina mentre que ell no col·labora en res_|_que has fet tu mentrestant?_|
 
-## Vocabulari [*](#que-entra)
+## Vocabulari
 ### V4
 Paraules o expressions correctes:
 - ~~espaial~~/espacial
@@ -133,7 +133,7 @@ Frases fetes:
 - **fer el paper de met** ⇒ fer com qui no s'adona de res
 
 
-## La variació lingüística [*](#que-entra)
+## La variació lingüística
 - _Segons el grup social_:
 	- **Varietats històriques o diacròniques**
 	- **Varietats socials o diastràtiques**
@@ -157,9 +157,9 @@ Frases fetes:
 > utilitzen normalment una preposició o un determinant, i no tenen antecedent.
 
 ## Bonus: vocabulari futbol
-
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTM4NTcwOSwtNDMzOTY3MjM3LDEzOT
+eyJoaXN0b3J5IjpbLTg1ODg4NjI5MCwtNDMzOTY3MjM3LDEzOT
 U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
 OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

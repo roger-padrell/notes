@@ -4,7 +4,7 @@
 - Unitat 4: pàg. [92, 93, 94](#la-poesia), [104](#sinó--si-no-quant-a), [106](#v4) i [108](#la-variació-lingüística-).
 - Unitat 5: pàg. [133](#perper-a-a-midaa-mesura-que-mentrementre-quementrestant) i [135](#v5).
 - [Sintaxi: subordinades substantives (tots els tipus)](#oracions-subordinades-substantives )
-- Literatura: pàg. [56, 57](#josep-carner), 58, 80 i 81.
+- Literatura: pàg. [56, 57](#josep-carner), [58](#carles-riba), [80](#avantguardisme) i 81.
 - [Pujar nota: *lèxic* del futbol.](#bonus-vocabulari-futbol)
 
 ## La poesia
@@ -185,8 +185,37 @@ Frases fetes:
 - _Del joc i del foc_: introdueix la TANKA, estrofa d'origen japonès de 5 versos.
 - _Salvatge cos_: és un llibre de sonets on fa una reflexió basada en la seva experiència en què analitza la relació amorosa (carnal) i l'amor a Déu.
 - També va escriure obres per a infants (_Les aventures d'en Perot Marroquí_, _Sis Joans_)
+
+### Avantguardisme
+Avantguardes:
+- **Futurisme**: trencament amb l'ordre imperant en el passat, _paraules en llibertat_, _imaginació sense fils_, desordre de sintaxi, trencament de versos, absència de puntuació i majúscules.
+- **Surrealisme**: alliberació de l'individu, importància en  els somnis, _escriptura automàtica_.
+- **Cubisme**: mètodes científics per canviar l'aspecte de la realitat.
+- **Dadaisme**: objectiu crear caos intel·lectual com a reflex de la societat caótica.
+
+### Joan Salvat-Papasseit (_1894-1924_)
+- Figura més notable de l'Avantguardisme català
+- Família humil, orfe de pare als set anys, va a viure a l'Asilo Naval Español fins als 12 anys
+- Comença a treballar, inicia la lectura de Gorki, Nietzche i Ibsen.
+- Funda la revista **Un Enemic del Poble**, amb visió de l'art, religió, cultura, lluites de classe i el catalanisme.
+- Mor per tuberculosi
+
+#### Obra
+**_El poema de la rosa als llavis_ (1923)**:
+-	Mestre d'amor
+-	Aprenenta
+
+Altres obres:
+- Formes avantguardistes:
+	- _Poemes en ondes hertzianes_ (1919)
+	- _L'irradiador del port i les gavines_ (1921)
+- Poesia personal i nostàlgica:
+	- _Les conspiracions_(1922)
+	- _La gesta dels estels_ (1922)
+> Tot ho he vist o viscut.
+> No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjU4MzY0MSwtNDMzOTY3MjM3LDEzOT
+eyJoaXN0b3J5IjpbMTIzODc4NzA2OCwtNDMzOTY3MjM3LDEzOT
 U1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4
 OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

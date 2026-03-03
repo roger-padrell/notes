@@ -99,10 +99,10 @@ Frases fetes:
 
 ## La variació lingüística [*](#que-entra)
 - _Segons el grup social_:
-	- **Varietats històriques**
-	- **Varietats socials**
-	- **Varietats geogràfiques**
-- _Segons la situació comunicativa_
+	- **Varietats històriques o diacròniques**
+	- **Varietats socials o diastràtiques**
+	- **Varietats geogràfiques o diatòpiques**
+- _Segons la situació comunicativa (**varietats estilístiques o diafàsiques**)_
 	- **Varietats formals**
 		- **Registre cientificotècnic**
 		- **Registre literari**
@@ -110,7 +110,7 @@ Frases fetes:
 		- **Registre col·loquial**
 		- **Registre vulgar**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzIyMjE5MiwxMzk1NTU2MTE4LDIxMj
-A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
-OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
+eyJoaXN0b3J5IjpbODQ4OTQ0MTg5LDEzOTU1NTYxMTgsMjEyMD
+U3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLTkyNjYzNzU5
+OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
 -->

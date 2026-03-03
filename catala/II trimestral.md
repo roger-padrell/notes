@@ -99,9 +99,18 @@ Frases fetes:
 
 ## La variació lingüística [*](#que-entra)
 - _Segons el grup social_:
-	- **Var**
+	- **Varietats històriques**
+	- **Varietats socials**
+	- **Varietats geogràfiques**
+- _Segons la situació comunicativa_
+	- **Varietats formals**
+		- **Registre cientificotècnic**
+		- **Registre literari**
+	- **Varietats informals**
+		- **Registre col·loquial**
+		- **Registre vulgar**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDI2MjEwNSwxMzk1NTU2MTE4LDIxMj
+eyJoaXN0b3J5IjpbMTA2NzIyMjE5MiwxMzk1NTU2MTE4LDIxMj
 A1NzA4MzQsLTg5MzkxNDE4NiwxNDYyOTA3ODk5LC05MjY2Mzc1
 OTgsMzc1ODcyOTE0LC02NTI2Mjk4NjVdfQ==
 -->

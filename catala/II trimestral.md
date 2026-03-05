@@ -200,6 +200,8 @@ Frases fetes:
 - També va escriure obres per a infants (_Les aventures d'en Perot Marroquí_, _Sis Joans_)
 ---
 ### Avantguardisme
+Iniciat en el _Manifest futurista_ de **Filippo Tommaso Marinetti**.
+
 Context històric:
 - 1a i 2a guerra mundial
 - Dictadura Primo de Rivera
@@ -238,8 +240,9 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjIwNjIwMSwxNjg3NTA4ODE5LDExNz
-MwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3MjM3LDEzOTU1NTYx
-MTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LDE0NjI5MDc4OTksLT
-kyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYyOTg2NV19
+eyJoaXN0b3J5IjpbLTgwMTEwMDYwNSwyMDgyMjA2MjAxLDE2OD
+c1MDg4MTksMTE3MzA2NTEyNSwxNjg3NTA4ODE5LC00MzM5Njcy
+MzcsMTM5NTU1NjExOCwyMTIwNTcwODM0LC04OTM5MTQxODYsMT
+Q2MjkwNzg5OSwtOTI2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5
+ODY1XX0=
 -->

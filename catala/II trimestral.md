@@ -230,7 +230,7 @@ Avantguardes:
 -	Mestre d'amor
 -	Aprenenta
 
-**_Ossa menor_**
+**_Ossa menor_ (1925)**: tematica amorosa, caire eròtic, apareix l'angoixa de la mort.
 
 Altres obres:
 - Formes avantguardistes:
@@ -242,9 +242,9 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI2OTcxMTAsMjA4MjIwNjIwMSwxNj
-g3NTA4ODE5LDExNzMwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3
-MjM3LDEzOTU1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LD
-E0NjI5MDc4OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYy
-OTg2NV19
+eyJoaXN0b3J5IjpbLTc0NjEyODAyMSwyMDgyMjA2MjAxLDE2OD
+c1MDg4MTksMTE3MzA2NTEyNSwxNjg3NTA4ODE5LC00MzM5Njcy
+MzcsMTM5NTU1NjExOCwyMTIwNTcwODM0LC04OTM5MTQxODYsMT
+Q2MjkwNzg5OSwtOTI2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5
+ODY1XX0=
 -->

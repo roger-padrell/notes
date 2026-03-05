@@ -230,6 +230,8 @@ Avantguardes:
 -	Mestre d'amor
 -	Aprenenta
 
+**_Ossa menor_**
+
 Altres obres:
 - Formes avantguardistes:
 	- _Poemes en ondes hertzianes_ (1919)
@@ -240,9 +242,9 @@ Altres obres:
 > Tot ho he vist o viscut.
 > No he escrit mai sense mullar la ploma al cor, esbantanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTEwMDYwNSwyMDgyMjA2MjAxLDE2OD
-c1MDg4MTksMTE3MzA2NTEyNSwxNjg3NTA4ODE5LC00MzM5Njcy
-MzcsMTM5NTU1NjExOCwyMTIwNTcwODM0LC04OTM5MTQxODYsMT
-Q2MjkwNzg5OSwtOTI2NjM3NTk4LDM3NTg3MjkxNCwtNjUyNjI5
-ODY1XX0=
+eyJoaXN0b3J5IjpbLTEwODI2OTcxMTAsMjA4MjIwNjIwMSwxNj
+g3NTA4ODE5LDExNzMwNjUxMjUsMTY4NzUwODgxOSwtNDMzOTY3
+MjM3LDEzOTU1NTYxMTgsMjEyMDU3MDgzNCwtODkzOTE0MTg2LD
+E0NjI5MDc4OTksLTkyNjYzNzU5OCwzNzU4NzI5MTQsLTY1MjYy
+OTg2NV19
 -->

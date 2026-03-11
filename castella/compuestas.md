@@ -6,7 +6,8 @@ Nexo: conjunciones o locuciones conjuntivas
 |--|--|--
 |**Copulativa**|Suma, unión o acumulación|y, e, ni|
 |**Disyuntivas**|Elección entre posibilidades|u, o, o bien, o...o|
-|**Adversativ**
+|**Adversativas**|Oposición (parcial / total)|pero, sin embargo / sino (que)|
+|**strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTQ1NjIwN119
+eyJoaXN0b3J5IjpbLTE3NTY0ODkxMDNdfQ==
 -->

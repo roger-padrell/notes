@@ -8,7 +8,10 @@ Nexo: conjunciones o locuciones conjuntivas
 |**Disyuntivas**|Elección entre posibilidades|u, o, o bien, o...o|
 |**Adversativas**|Oposición (parcial / total)|pero, sin embargo / sino (que)|
 |**Distributivas**|Relación entre opciones no excluyentes|aquí...allí, hoy...mañana, unos...otros, este...aquel|
-|**Explicativas**|Aclara el significado|Es decir, esto es, 
+|**Explicativas**|Aclara el significado|Es decir, esto es, o sea, a saber, por ejemplo|
+
+## Subordinadas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE3NTExNTNdfQ==
+eyJoaXN0b3J5IjpbLTE1MDc0MDc4MzddfQ==
 -->

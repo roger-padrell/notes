@@ -2,7 +2,11 @@
 ## Coordinadas
 Nexo: conjunciones o locuciones conjuntivas
 
-|Tipo|Significado|
+|Tipo|Significado|Conjunciones|
+|--|--|--
+|**Copulativa**|Suma, unión o acumulación|y, e, ni|
+|**Disyuntivas**|Elección entre posibilidades|u, o, o bien, o...o|
+|**Adversativ**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEwNTkwMDZdfQ==
+eyJoaXN0b3J5IjpbLTU4MTQ1NjIwN119
 -->

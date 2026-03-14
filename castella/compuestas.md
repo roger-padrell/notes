@@ -11,7 +11,7 @@ Nexo: conjunciones o locuciones conjuntivas
 |**Explicativas**|Aclara el significado|Es decir, esto es, o sea, a saber, por ejemplo|
 
 ## Subordinadas
-
+u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc0MDc4MzddfQ==
+eyJoaXN0b3J5IjpbMTUwNzg0NzQ4NCwtMTUwNzQwNzgzN119
 -->
